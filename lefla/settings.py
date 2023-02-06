@@ -85,6 +85,7 @@ ALLOWED_HOSTS = [
 
 
 CORS_ORIGIN_WHITELIST = (
+    "https://lefla.azurewebsites.net",
     "http://localhost:8080",
     "http://0.0.0.0:8000",
     "http://localhost:4200",
@@ -97,6 +98,7 @@ CORS_ORIGIN_WHITELIST = (
 )
 
 CORS_ALLOWED_ORIGINS = [
+    "https://lefla.azurewebsites.net",
     "http://localhost:8080",
     "http://localhost:4200",
     "http://127.0.0.1:8000",
@@ -107,6 +109,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://lefla-app.herokuapp.com",
 ]
 CSRF_TRUSTED_ORIGINS = [
+    "https://lefla.azurewebsites.net",
     "http://localhost:8080",
     "http://localhost:4200",
     "http://127.0.0.1:8000",
