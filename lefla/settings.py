@@ -79,11 +79,8 @@ ALLOWED_HOSTS = [
     "127.0.0.1",
     "0.0.0.0",
     "167.99.42.238",
-    "167.99.42.238",
-    "lefla.herokuapp.com",
+    "lefla.azurewebsites.net",
     "lefla.vercel.app",
-    "lefla-app.herokuapp.com",
-    "lefla-app.herokuapp.com",
 ]
 
 
