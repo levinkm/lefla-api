@@ -1,0 +1,47 @@
+version: '3.4'
+
+services:
+  lefla:
+    image: lefla
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+      - redis
+
+  db:
+    image: postgres:14.1-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres@lefla19/03647
+    ports:
+      - '5432'
+    volumes:
+      - db:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/create_tables.sql
+
+  redis:
+    image: redis:6.2-alpine
+    restart: always
+    ports:
+      - '6380:6380'
+
+  celery:
+    restart: always
+    build:
+      context: .
+    command: celery -A lefla worker -l info
+    depends_on:
+      - db
+      - redis
+      - lefla
+
+volumes:
+  db:
+    driver: local
+  cache:
+    driver: local

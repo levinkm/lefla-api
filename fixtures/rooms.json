@@ -1,0 +1,1042 @@
+[
+  {
+    "model": "hostels.room",
+    "pk": "18zxcB8nmMHnEErnCmyDq8wynL4dwsn5nn",
+    "fields": {
+      "hostel_id": 36,
+      "room_type": "studio-apartment",
+      "pricing": 4147,
+      "offer": 3457,
+      "deposit": 9789,
+      "service_fee": 1220,
+      "number_of_rooms_avilable": 18
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1BU85HXtBpo4mai65gn1kHzttRwQQgjNZ7",
+    "fields": {
+      "hostel_id": 13,
+      "room_type": "single-room",
+      "pricing": 4117,
+      "offer": 2082,
+      "deposit": 7383,
+      "service_fee": 754,
+      "number_of_rooms_avilable": 10
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "12thuG9tcS8YT2yWrUw89ebSj6LYFHrbXv",
+    "fields": {
+      "hostel_id": 52,
+      "room_type": "one-bedroom",
+      "pricing": 6467,
+      "offer": 1514,
+      "deposit": 4422,
+      "service_fee": 105,
+      "number_of_rooms_avilable": 18
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1JzyZTtFyD9gpN8LesPNZAqHP6S5DM5Kmj",
+    "fields": {
+      "hostel_id": 24,
+      "room_type": "bedsitter",
+      "pricing": 4591,
+      "offer": 3781,
+      "deposit": 9462,
+      "service_fee": 78,
+      "number_of_rooms_avilable": 5
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1A3bNSKn1f17YwweZnywFBd8hFTodh6vQB",
+    "fields": {
+      "hostel_id": 51,
+      "room_type": "studio-apartment",
+      "pricing": 11802,
+      "offer": 1857,
+      "deposit": 9230,
+      "service_fee": 1787,
+      "number_of_rooms_avilable": 17
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "17HeWZypoCBeF1Hk59y7LB7oDihPaRgtkJ",
+    "fields": {
+      "hostel_id": 56,
+      "room_type": "single-room",
+      "pricing": 4047,
+      "offer": 2583,
+      "deposit": 9353,
+      "service_fee": 1987,
+      "number_of_rooms_avilable": 16
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "12roM8a9s5zHXiJEyavWYM9bDkM7ZZEyDd",
+    "fields": {
+      "hostel_id": 24,
+      "room_type": "one-bedroom",
+      "pricing": 7841,
+      "offer": 1924,
+      "deposit": 4659,
+      "service_fee": 1581,
+      "number_of_rooms_avilable": 4
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1Hhzt5kNvHqdZ5Pp7K2ZNM1Gy1ycnPBVTm",
+    "fields": {
+      "hostel_id": 58,
+      "room_type": "bedsitter",
+      "pricing": 4761,
+      "offer": 3989,
+      "deposit": 10448,
+      "service_fee": 1243,
+      "number_of_rooms_avilable": 15
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1PSwHaDVquUihzJBGGYZFX8ajN4Fj2pbQ1",
+    "fields": {
+      "hostel_id": 4,
+      "room_type": "studio-apartment",
+      "pricing": 9326,
+      "offer": 3799,
+      "deposit": 4346,
+      "service_fee": 17,
+      "number_of_rooms_avilable": 2
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1HB38EJjeMQNMgbB7LWDFZrbybxwhUefQY",
+    "fields": {
+      "hostel_id": 65,
+      "room_type": "single-room",
+      "pricing": 4093,
+      "offer": 559,
+      "deposit": 11942,
+      "service_fee": 1979,
+      "number_of_rooms_avilable": 14
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "147tBAudwaSwyCTSrumb7R2xFrdo1xiwLx",
+    "fields": {
+      "hostel_id": 6,
+      "room_type": "one-bedroom",
+      "pricing": 7045,
+      "offer": 226,
+      "deposit": 8985,
+      "service_fee": 1771,
+      "number_of_rooms_avilable": 9
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "18Vzsac5BiP8sfxGYWWWDoo8tUVpXnK5CN",
+    "fields": {
+      "hostel_id": 51,
+      "room_type": "bedsitter",
+      "pricing": 5846,
+      "offer": 3920,
+      "deposit": 4025,
+      "service_fee": 1444,
+      "number_of_rooms_avilable": 11
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1GBhsv34WGNAbXhKuQWyVNUmUbYSZ3zLvq",
+    "fields": {
+      "hostel_id": 63,
+      "room_type": "studio-apartment",
+      "pricing": 10928,
+      "offer": 3922,
+      "deposit": 4579,
+      "service_fee": 164,
+      "number_of_rooms_avilable": 9
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1LgQcAwJteKEFcWEeiq7mWdzwdjkxVKa4S",
+    "fields": {
+      "hostel_id": 2,
+      "room_type": "single-room",
+      "pricing": 10510,
+      "offer": 139,
+      "deposit": 8583,
+      "service_fee": 1649,
+      "number_of_rooms_avilable": 3
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "19iKMwFAdGuoMyhxUAAwctFin38cod8V4Y",
+    "fields": {
+      "hostel_id": 24,
+      "room_type": "one-bedroom",
+      "pricing": 5514,
+      "offer": 2448,
+      "deposit": 6490,
+      "service_fee": 1200,
+      "number_of_rooms_avilable": 15
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "19Z6o87dRACpKvqTHJaNmtpheccUrnPFQM",
+    "fields": {
+      "hostel_id": 25,
+      "room_type": "bedsitter",
+      "pricing": 9780,
+      "offer": 1557,
+      "deposit": 7950,
+      "service_fee": 353,
+      "number_of_rooms_avilable": 10
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1A3aGSuJuHCADSsgdG9q72PijHKEz3AThJ",
+    "fields": {
+      "hostel_id": 70,
+      "room_type": "studio-apartment",
+      "pricing": 11460,
+      "offer": 1491,
+      "deposit": 8315,
+      "service_fee": 1902,
+      "number_of_rooms_avilable": 0
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1FH8F7yNsLaQdXGUeB4xGkSNPpiq8xoxrv",
+    "fields": {
+      "hostel_id": 68,
+      "room_type": "single-room",
+      "pricing": 10488,
+      "offer": 111,
+      "deposit": 11218,
+      "service_fee": 1199,
+      "number_of_rooms_avilable": 0
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1NNHYqSqEZxGcab3gSyYPtVNx1ize2iZc1",
+    "fields": {
+      "hostel_id": 58,
+      "room_type": "one-bedroom",
+      "pricing": 3977,
+      "offer": 1494,
+      "deposit": 4278,
+      "service_fee": 328,
+      "number_of_rooms_avilable": 7
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "19nRNwpLWeaaQUEXSL8cwC3Ug7fnfUVEct",
+    "fields": {
+      "hostel_id": 39,
+      "room_type": "bedsitter",
+      "pricing": 7467,
+      "offer": 57,
+      "deposit": 5728,
+      "service_fee": 1018,
+      "number_of_rooms_avilable": 15
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1LvJqXMRq66Vwu6ES1kbKb2WBF9rvM8Ajn",
+    "fields": {
+      "hostel_id": 14,
+      "room_type": "studio-apartment",
+      "pricing": 8236,
+      "offer": 1896,
+      "deposit": 10578,
+      "service_fee": 838,
+      "number_of_rooms_avilable": 7
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1MAYzupytWqu9FH49XXvUb695fcm1ZqxqB",
+    "fields": {
+      "hostel_id": 12,
+      "room_type": "single-room",
+      "pricing": 10902,
+      "offer": 2965,
+      "deposit": 3564,
+      "service_fee": 113,
+      "number_of_rooms_avilable": 6
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1FEii1aD5nxviHy2VformhUXo9mhAs8YRr",
+    "fields": {
+      "hostel_id": 66,
+      "room_type": "one-bedroom",
+      "pricing": 6320,
+      "offer": 2006,
+      "deposit": 9415,
+      "service_fee": 1901,
+      "number_of_rooms_avilable": 15
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1Cd4zKTftVG4VRonYpBergFqwdgBtWmsfS",
+    "fields": {
+      "hostel_id": 12,
+      "room_type": "bedsitter",
+      "pricing": 6047,
+      "offer": 689,
+      "deposit": 9444,
+      "service_fee": 314,
+      "number_of_rooms_avilable": 13
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "19kZn3E376JqFdLfDKnM7JKmZeHekeCaxJ",
+    "fields": {
+      "hostel_id": 11,
+      "room_type": "studio-apartment",
+      "pricing": 10038,
+      "offer": 400,
+      "deposit": 9746,
+      "service_fee": 652,
+      "number_of_rooms_avilable": 11
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "19j2r3mqSXJWTKbEujaVYQyGKPbUodqPT5",
+    "fields": {
+      "hostel_id": 43,
+      "room_type": "single-room",
+      "pricing": 7952,
+      "offer": 1426,
+      "deposit": 9409,
+      "service_fee": 869,
+      "number_of_rooms_avilable": 13
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "12t2qnPsuDnKNBz8mk5v7b9PzXH8j8Ggwj",
+    "fields": {
+      "hostel_id": 50,
+      "room_type": "one-bedroom",
+      "pricing": 7733,
+      "offer": 117,
+      "deposit": 3860,
+      "service_fee": 333,
+      "number_of_rooms_avilable": 4
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "172yhDHkB2SaXWZQ9v959reZpVBzCMjLAo",
+    "fields": {
+      "hostel_id": 12,
+      "room_type": "bedsitter",
+      "pricing": 11387,
+      "offer": 2633,
+      "deposit": 6159,
+      "service_fee": 689,
+      "number_of_rooms_avilable": 3
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1AXCqD53WiFxzjd3uB4kdCCvT3ogVebqTy",
+    "fields": {
+      "hostel_id": 34,
+      "room_type": "studio-apartment",
+      "pricing": 7413,
+      "offer": 172,
+      "deposit": 3797,
+      "service_fee": 1466,
+      "number_of_rooms_avilable": 18
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1ERxTsMHCW4WbY21hKYfJ6CJ3Fnkkh2Gs",
+    "fields": {
+      "hostel_id": 15,
+      "room_type": "single-room",
+      "pricing": 7603,
+      "offer": 1275,
+      "deposit": 9974,
+      "service_fee": 171,
+      "number_of_rooms_avilable": 9
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1Nhfxwbq19AmreZ9phei1roBYyGAL32kLL",
+    "fields": {
+      "hostel_id": 69,
+      "room_type": "one-bedroom",
+      "pricing": 10615,
+      "offer": 1349,
+      "deposit": 6212,
+      "service_fee": 803,
+      "number_of_rooms_avilable": 11
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1PRJnqKyZx5iExKVMetMP8VxGXiY61VPYo",
+    "fields": {
+      "hostel_id": 48,
+      "room_type": "bedsitter",
+      "pricing": 11585,
+      "offer": 1734,
+      "deposit": 7629,
+      "service_fee": 1645,
+      "number_of_rooms_avilable": 11
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1Fh7dKkAk3V7oq1L27izVhWZd1bw7uY8uC",
+    "fields": {
+      "hostel_id": 45,
+      "room_type": "studio-apartment",
+      "pricing": 9739,
+      "offer": 1113,
+      "deposit": 6594,
+      "service_fee": 1737,
+      "number_of_rooms_avilable": 7
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "15dDLyWo9eFQYKggVjkhdzac3bXBA9Dkvx",
+    "fields": {
+      "hostel_id": 53,
+      "room_type": "single-room",
+      "pricing": 4777,
+      "offer": 3229,
+      "deposit": 10732,
+      "service_fee": 477,
+      "number_of_rooms_avilable": 1
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1MxFRaPVAbFJj8xPLrkuNqEzoC8Hmw7yZo",
+    "fields": {
+      "hostel_id": 31,
+      "room_type": "one-bedroom",
+      "pricing": 8633,
+      "offer": 173,
+      "deposit": 5494,
+      "service_fee": 1949,
+      "number_of_rooms_avilable": 18
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1FPs2ycNMCasVMV7brx4oVY2L1HoWQUSHc",
+    "fields": {
+      "hostel_id": 7,
+      "room_type": "bedsitter",
+      "pricing": 11646,
+      "offer": 209,
+      "deposit": 7698,
+      "service_fee": 323,
+      "number_of_rooms_avilable": 12
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1925CAsUnnV2ANj59P9wyapuVG4ZTi8HSd",
+    "fields": {
+      "hostel_id": 49,
+      "room_type": "studio-apartment",
+      "pricing": 9723,
+      "offer": 3550,
+      "deposit": 6230,
+      "service_fee": 1934,
+      "number_of_rooms_avilable": 13
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "12dfwYVuZXhGXkd9zGk5sCY5sPDKtKJpuw",
+    "fields": {
+      "hostel_id": 69,
+      "room_type": "single-room",
+      "pricing": 11918,
+      "offer": 349,
+      "deposit": 8781,
+      "service_fee": 1532,
+      "number_of_rooms_avilable": 4
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "13YHDNGZ3AXUChrug9f4Hot1Hb98GTUYT4",
+    "fields": {
+      "hostel_id": 23,
+      "room_type": "one-bedroom",
+      "pricing": 10017,
+      "offer": 656,
+      "deposit": 5629,
+      "service_fee": 1560,
+      "number_of_rooms_avilable": 8
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "13Q9N9bZrh7wyACrWX1Y4HGtR52et7LAmy",
+    "fields": {
+      "hostel_id": 8,
+      "room_type": "bedsitter",
+      "pricing": 11218,
+      "offer": 2254,
+      "deposit": 9801,
+      "service_fee": 1367,
+      "number_of_rooms_avilable": 10
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "18QgzZuynJHPUoYVadqtSJCKxmb1Eq5om8",
+    "fields": {
+      "hostel_id": 58,
+      "room_type": "studio-apartment",
+      "pricing": 9162,
+      "offer": 313,
+      "deposit": 5025,
+      "service_fee": 437,
+      "number_of_rooms_avilable": 10
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "16eLhDZ5YR2mDQeUYQCaxF3Gg4uRcVajqr",
+    "fields": {
+      "hostel_id": 5,
+      "room_type": "single-room",
+      "pricing": 8285,
+      "offer": 2097,
+      "deposit": 5768,
+      "service_fee": 972,
+      "number_of_rooms_avilable": 6
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "12WcdWugpLZYGqKNu6isScBttLiMbkRGb3",
+    "fields": {
+      "hostel_id": 30,
+      "room_type": "one-bedroom",
+      "pricing": 8184,
+      "offer": 2864,
+      "deposit": 7423,
+      "service_fee": 1443,
+      "number_of_rooms_avilable": 15
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1MfJay8DdbtmD3W2utTFyVwMXiEuQfTZMC",
+    "fields": {
+      "hostel_id": 16,
+      "room_type": "bedsitter",
+      "pricing": 11945,
+      "offer": 565,
+      "deposit": 6676,
+      "service_fee": 1341,
+      "number_of_rooms_avilable": 2
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "19an2i4aG7gA14CHvyvMMaHdwwrAgC8gGk",
+    "fields": {
+      "hostel_id": 15,
+      "room_type": "studio-apartment",
+      "pricing": 4187,
+      "offer": 1755,
+      "deposit": 9710,
+      "service_fee": 17,
+      "number_of_rooms_avilable": 13
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1Ax5mbzEM9cq3skJqJDRUP38BW9DUmKM6Z",
+    "fields": {
+      "hostel_id": 69,
+      "room_type": "single-room",
+      "pricing": 4400,
+      "offer": 3781,
+      "deposit": 4054,
+      "service_fee": 308,
+      "number_of_rooms_avilable": 15
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1L6T6rjQqDnZq789jaK8UwMoZzVQiBG13b",
+    "fields": {
+      "hostel_id": 28,
+      "room_type": "one-bedroom",
+      "pricing": 3840,
+      "offer": 2046,
+      "deposit": 3566,
+      "service_fee": 30,
+      "number_of_rooms_avilable": 16
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1AR6vRHFQgRUMdKuj9T8gJ6NdKQRWqa1j4",
+    "fields": {
+      "hostel_id": 49,
+      "room_type": "bedsitter",
+      "pricing": 4885,
+      "offer": 1692,
+      "deposit": 6096,
+      "service_fee": 241,
+      "number_of_rooms_avilable": 20
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1r7h8prb9uCugjLxKRCPiTgpyirbBXAr9",
+    "fields": {
+      "hostel_id": 8,
+      "room_type": "studio-apartment",
+      "pricing": 5863,
+      "offer": 3554,
+      "deposit": 4257,
+      "service_fee": 1814,
+      "number_of_rooms_avilable": 4
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1NqiFEsWe5S1eDbB1M6mnsSGqMYUfYYCzs",
+    "fields": {
+      "hostel_id": 50,
+      "room_type": "single-room",
+      "pricing": 11057,
+      "offer": 3436,
+      "deposit": 7940,
+      "service_fee": 326,
+      "number_of_rooms_avilable": 11
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "13go7Tqk2vUzGQgNVWv53gQH63fMSnXDhL",
+    "fields": {
+      "hostel_id": 14,
+      "room_type": "one-bedroom",
+      "pricing": 5029,
+      "offer": 2966,
+      "deposit": 3673,
+      "service_fee": 1276,
+      "number_of_rooms_avilable": 0
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "16SKENo1BpFDZ88tznTZVoSGuune1mUA8C",
+    "fields": {
+      "hostel_id": 22,
+      "room_type": "bedsitter",
+      "pricing": 7158,
+      "offer": 3101,
+      "deposit": 6531,
+      "service_fee": 1402,
+      "number_of_rooms_avilable": 9
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1MUTxBNVDcoSq1YCadqFkL1BohSXf2h1xA",
+    "fields": {
+      "hostel_id": 55,
+      "room_type": "studio-apartment",
+      "pricing": 7151,
+      "offer": 704,
+      "deposit": 8283,
+      "service_fee": 554,
+      "number_of_rooms_avilable": 4
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1M9ZW8bAmf27uZPicC7ozFD4fxaf2QE1pT",
+    "fields": {
+      "hostel_id": 44,
+      "room_type": "single-room",
+      "pricing": 8922,
+      "offer": 947,
+      "deposit": 11443,
+      "service_fee": 1598,
+      "number_of_rooms_avilable": 5
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "19RogjQbjhxCGAkTT6cGeurrskpuuDP6it",
+    "fields": {
+      "hostel_id": 38,
+      "room_type": "one-bedroom",
+      "pricing": 9072,
+      "offer": 3213,
+      "deposit": 5753,
+      "service_fee": 1883,
+      "number_of_rooms_avilable": 19
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1EK3snKqRXXXcKkv5nWRMVU7DjyF8evMcv",
+    "fields": {
+      "hostel_id": 23,
+      "room_type": "bedsitter",
+      "pricing": 8330,
+      "offer": 1119,
+      "deposit": 6920,
+      "service_fee": 395,
+      "number_of_rooms_avilable": 4
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "17rywtSwpyfvZGpHDbTd7yP56phG7doWKq",
+    "fields": {
+      "hostel_id": 6,
+      "room_type": "studio-apartment",
+      "pricing": 6898,
+      "offer": 3679,
+      "deposit": 8846,
+      "service_fee": 657,
+      "number_of_rooms_avilable": 7
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1CzxVCCgM93UeWKKYhko6prhGA4gr8XHd2",
+    "fields": {
+      "hostel_id": 33,
+      "room_type": "single-room",
+      "pricing": 11771,
+      "offer": 2087,
+      "deposit": 10127,
+      "service_fee": 1011,
+      "number_of_rooms_avilable": 8
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1BQ3JE57SeXmoqQJMdd6FWyvZvUneJyf16",
+    "fields": {
+      "hostel_id": 11,
+      "room_type": "one-bedroom",
+      "pricing": 7342,
+      "offer": 997,
+      "deposit": 7777,
+      "service_fee": 687,
+      "number_of_rooms_avilable": 12
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1JjCxrDnZ8zZYZHwyK7P72x91K7yyxcvEc",
+    "fields": {
+      "hostel_id": 46,
+      "room_type": "bedsitter",
+      "pricing": 5953,
+      "offer": 3015,
+      "deposit": 9468,
+      "service_fee": 1283,
+      "number_of_rooms_avilable": 16
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1Pjg6JfmFVkho1rFchtFMWyNRWgy12KcfR",
+    "fields": {
+      "hostel_id": 49,
+      "room_type": "studio-apartment",
+      "pricing": 11199,
+      "offer": 2410,
+      "deposit": 6449,
+      "service_fee": 1796,
+      "number_of_rooms_avilable": 15
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1JffAS5gc1728AGvGdBm8qWuuS62sE2oiZ",
+    "fields": {
+      "hostel_id": 67,
+      "room_type": "single-room",
+      "pricing": 8694,
+      "offer": 3190,
+      "deposit": 3956,
+      "service_fee": 805,
+      "number_of_rooms_avilable": 7
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "131vmX5r5NK4b2SSx44gh7YVb83yjNaByj",
+    "fields": {
+      "hostel_id": 43,
+      "room_type": "one-bedroom",
+      "pricing": 11853,
+      "offer": 3107,
+      "deposit": 8579,
+      "service_fee": 1677,
+      "number_of_rooms_avilable": 17
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1M8wMa8PmrKwEqTngb7Wac1z21uFFFoU7q",
+    "fields": {
+      "hostel_id": 70,
+      "room_type": "bedsitter",
+      "pricing": 9540,
+      "offer": 2526,
+      "deposit": 4764,
+      "service_fee": 1631,
+      "number_of_rooms_avilable": 12
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1NmydWoPmK37yLrcTFVsuyPjb7S3HuGHNS",
+    "fields": {
+      "hostel_id": 56,
+      "room_type": "studio-apartment",
+      "pricing": 10498,
+      "offer": 3538,
+      "deposit": 4814,
+      "service_fee": 825,
+      "number_of_rooms_avilable": 19
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1AYUbXU5ZFuAEZv6QLmNadTFTU4unJVuxU",
+    "fields": {
+      "hostel_id": 42,
+      "room_type": "single-room",
+      "pricing": 6617,
+      "offer": 2092,
+      "deposit": 4830,
+      "service_fee": 968,
+      "number_of_rooms_avilable": 5
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "186nWyfgRqiMBNViSXkSQJZt9ThmazjLcJ",
+    "fields": {
+      "hostel_id": 59,
+      "room_type": "one-bedroom",
+      "pricing": 4828,
+      "offer": 321,
+      "deposit": 7701,
+      "service_fee": 1458,
+      "number_of_rooms_avilable": 1
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1AEAFi9UfHJcKd9k8z6jrJKAUYR2WMVLid",
+    "fields": {
+      "hostel_id": 67,
+      "room_type": "bedsitter",
+      "pricing": 5511,
+      "offer": 2939,
+      "deposit": 8887,
+      "service_fee": 250,
+      "number_of_rooms_avilable": 19
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1KrXHp2v4TeA1ZGF1zhD1DPYXrZ6Twv3qC",
+    "fields": {
+      "hostel_id": 35,
+      "room_type": "studio-apartment",
+      "pricing": 10604,
+      "offer": 2706,
+      "deposit": 5059,
+      "service_fee": 825,
+      "number_of_rooms_avilable": 11
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1FPRPZSKx3T38DSGmt7QjtkEEbmzHrEwUh",
+    "fields": {
+      "hostel_id": 62,
+      "room_type": "single-room",
+      "pricing": 8599,
+      "offer": 1776,
+      "deposit": 6442,
+      "service_fee": 1332,
+      "number_of_rooms_avilable": 7
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1MSV6NCNdDQx2Wfv2dvqZ6aa2ZZM2rajg",
+    "fields": {
+      "hostel_id": 64,
+      "room_type": "one-bedroom",
+      "pricing": 8753,
+      "offer": 771,
+      "deposit": 3501,
+      "service_fee": 465,
+      "number_of_rooms_avilable": 11
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1Bu1gcx6Yv25RrLHnzyPUNyKymviskrCU5",
+    "fields": {
+      "hostel_id": 42,
+      "room_type": "bedsitter",
+      "pricing": 3724,
+      "offer": 245,
+      "deposit": 5368,
+      "service_fee": 1230,
+      "number_of_rooms_avilable": 3
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1LuvZheTGJwK5PrANBiKaK1zxitRg2XnCZ",
+    "fields": {
+      "hostel_id": 55,
+      "room_type": "studio-apartment",
+      "pricing": 11812,
+      "offer": 1758,
+      "deposit": 4146,
+      "service_fee": 1087,
+      "number_of_rooms_avilable": 3
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "18Ta15WtXtYKDMimEEZHcHWTjjMazT7UfK",
+    "fields": {
+      "hostel_id": 34,
+      "room_type": "single-room",
+      "pricing": 8683,
+      "offer": 3004,
+      "deposit": 5253,
+      "service_fee": 1499,
+      "number_of_rooms_avilable": 10
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "15KRseyj5a85MoZUhGXRbBuFEDfxSZ2oj7",
+    "fields": {
+      "hostel_id": 37,
+      "room_type": "one-bedroom",
+      "pricing": 11430,
+      "offer": 1112,
+      "deposit": 8167,
+      "service_fee": 296,
+      "number_of_rooms_avilable": 12
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "16oYwqdtg85Wh5u3mmF5JNrw4KrmoBpynG",
+    "fields": {
+      "hostel_id": 4,
+      "room_type": "bedsitter",
+      "pricing": 10315,
+      "offer": 1580,
+      "deposit": 5684,
+      "service_fee": 1237,
+      "number_of_rooms_avilable": 1
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1K5sABrJ9y3V84FmnB16qMzKoo6aWb3zT",
+    "fields": {
+      "hostel_id": 38,
+      "room_type": "studio-apartment",
+      "pricing": 10624,
+      "offer": 2816,
+      "deposit": 8227,
+      "service_fee": 1691,
+      "number_of_rooms_avilable": 19
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1E2rER2rUCYXjgHjbfoDoc4U32cy7jbMh9",
+    "fields": {
+      "hostel_id": 8,
+      "room_type": "single-room",
+      "pricing": 5190,
+      "offer": 2389,
+      "deposit": 6303,
+      "service_fee": 43,
+      "number_of_rooms_avilable": 2
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1ASMw6s4y4fSxATNt6u413tFrSx4WYdFDR",
+    "fields": {
+      "hostel_id": 8,
+      "room_type": "one-bedroom",
+      "pricing": 5660,
+      "offer": 1292,
+      "deposit": 9643,
+      "service_fee": 1908,
+      "number_of_rooms_avilable": 14
+    }
+  },
+  {
+    "model": "hostels.room",
+    "pk": "1CcG8stMHH7RxaG57Dnj64diMmyRw89Q7C",
+    "fields": {
+      "hostel_id": 47,
+      "room_type": "bedsitter",
+      "pricing": 9589,
+      "offer": 1483,
+      "deposit": 9737,
+      "service_fee": 529,
+      "number_of_rooms_avilable": 8
+    }
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "model": "hostels.hostelimages",
+    "pk": 1,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/148x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/142x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/159x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 2,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/185x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/108x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/210x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/218x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 3,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/165x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/153x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/243x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 4,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/214x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/117x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/246x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/181x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 5,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/192x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/202x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/216x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/162x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 6,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/158x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/177x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/183x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/168x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 7,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/197x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/178x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 8,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/140x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/238x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/224x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/180x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 9,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/141x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/226x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/242x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/100x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 10,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/211x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/110x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/213x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/203x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 11,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/144x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/189x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/104x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 12,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/203x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/181x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/231x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 13,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/231x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/138x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/226x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/142x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 14,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/125x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/111x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/154x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/113x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 15,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/117x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/102x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/199x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/112x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 16,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/113x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/101x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/103x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/109x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 17,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/189x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/121x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/189x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 18,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/221x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/183x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/183x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/211x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 19,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/160x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/123x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/204x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/106x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 20,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/205x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/219x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/125x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/113x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 21,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/185x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/146x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/197x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/103x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 22,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/216x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/223x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/141x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/180x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 23,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/196x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/164x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/139x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/140x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 24,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/151x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/117x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/213x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/227x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 25,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/142x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/184x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/162x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 26,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/239x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/187x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/100x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/230x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 27,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/209x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/184x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/118x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/172x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 28,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/115x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/105x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/176x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/172x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 29,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/117x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/111x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/234x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/244x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 30,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/246x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/231x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/202x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/166x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 31,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/220x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/169x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/211x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 32,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/170x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/232x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/115x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/124x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 33,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/187x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/222x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/173x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/199x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 34,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/227x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/128x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/228x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/195x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 35,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/164x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/222x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/181x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 36,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/210x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/115x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/241x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/101x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 37,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/212x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/107x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/124x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/201x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 38,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/179x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/243x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/196x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/232x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 39,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/179x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/230x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/210x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/220x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 40,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/176x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/213x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/236x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/155x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 41,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/187x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/178x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/205x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/144x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 42,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/155x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/164x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/210x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/132x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 43,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/108x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/184x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/131x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/198x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 44,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/190x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/179x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/214x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 45,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/143x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/234x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/150x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 46,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/102x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/105x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/207x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/139x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 47,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/162x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/175x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/167x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/243x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 48,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/122x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/250x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/134x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 49,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/107x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/166x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/190x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/206x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 50,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/205x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/102x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/186x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 51,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/187x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/213x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/156x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/141x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 52,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/139x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/146x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/105x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 53,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/128x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/129x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/105x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/250x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 54,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/131x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/242x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/227x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/245x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 55,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/126x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/120x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/182x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/110x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 56,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/237x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/132x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/157x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 57,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/224x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/123x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/142x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/187x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 58,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/129x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/184x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/227x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 59,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/199x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/154x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/127x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/206x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 60,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/154x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/180x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/116x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/224x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 61,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/206x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/169x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/137x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/201x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 62,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/175x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/249x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/103x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 63,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/198x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/172x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/107x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/142x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 64,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/184x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/222x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/243x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/156x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 65,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/178x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/223x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/203x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/105x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 66,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/216x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/204x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/211x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/232x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 67,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/167x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/145x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/170x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 68,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/115x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/231x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 69,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/156x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/240x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 70,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/187x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/205x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/135x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 71,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/240x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/145x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/151x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/194x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 72,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/122x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/247x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/154x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/226x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 73,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/210x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/145x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/192x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/206x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 74,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/165x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/176x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/125x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/206x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 75,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/110x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/218x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/230x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/144x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 76,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/195x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/195x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/158x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/136x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 77,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/146x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/227x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/243x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/208x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 78,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/248x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/183x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/119x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/114x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 79,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/246x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/248x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/245x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/234x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 80,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/108x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/127x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/226x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 81,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/233x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/184x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/143x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 82,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/194x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/144x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/236x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/166x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 83,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/244x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/226x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/150x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/179x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 84,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/143x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/169x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/249x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/235x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 85,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/146x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/233x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/130x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/115x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 86,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+      "image_url_2": "http://dummyimage.com/158x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/135x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/242x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 87,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/162x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/187x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/118x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 88,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/144x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/120x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/190x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/234x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 89,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/211x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/228x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/158x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/216x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 90,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/105x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/134x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/242x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/235x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 91,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/202x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/195x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/169x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 92,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/134x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/228x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/224x100.png/ff4444/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 93,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/168x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/123x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 94,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/242x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/187x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/177x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 95,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/206x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/206x100.png/dddddd/000000",
+      "image_url_3": "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/186x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 96,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/161x100.png/5fa2dd/ffffff",
+      "image_url_2": "http://dummyimage.com/230x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/188x100.png/cc0000/ffffff",
+      "image_url_4": "http://dummyimage.com/203x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 97,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/176x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/166x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/222x100.png/5fa2dd/ffffff",
+      "image_url_4": "http://dummyimage.com/165x100.png/cc0000/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 98,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/141x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/166x100.png/ff4444/ffffff",
+      "image_url_3": "http://dummyimage.com/217x100.png/ff4444/ffffff",
+      "image_url_4": "http://dummyimage.com/242x100.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 99,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/216x100.png/dddddd/000000",
+      "image_url_2": "http://dummyimage.com/243x100.png/cc0000/ffffff",
+      "image_url_3": "http://dummyimage.com/184x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/196x100.png/dddddd/000000"
+    }
+  },
+  {
+    "model": "hostels.hostelimages",
+    "pk": 100,
+    "fields": {
+      "image_url_1": "http://dummyimage.com/248x100.png/cc0000/ffffff",
+      "image_url_2": "http://dummyimage.com/153x100.png/5fa2dd/ffffff",
+      "image_url_3": "http://dummyimage.com/152x100.png/dddddd/000000",
+      "image_url_4": "http://dummyimage.com/135x100.png/cc0000/ffffff"
+    }
+  }
+]

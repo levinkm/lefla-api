@@ -1,0 +1,134 @@
+[
+  {
+    "model": "accounts.accounts",
+    "pk": "0c66b637-ffeb-4799-9a53-5a7ec7f3c377",
+    "fields": {
+      "password": "lkm1346",
+      "email": "levinmutai2@gmail.com",
+      "username": "levin",
+      "phonenumber": "+254768850684",
+      "parent_phonenumber": null,
+      "fullname": "",
+      "picture": "",
+      "otp": null,
+      "is_email_verified": false,
+      "date_joined": "2022-08-24T18:00:17.653Z",
+      "last_login": "2022-08-24T18:00:17.653Z",
+      "is_admin": false,
+      "is_active": true,
+      "is_staff": false,
+      "is_superuser": false,
+      "is_landlord": false
+    }
+  },
+  {
+    "model": "accounts.accounts",
+    "pk": "16",
+    "fields": {
+      "password": "pbkdf2_sha256$320000$xbDHC1q6yJEgFv7RDHzu5p$b+RH6RWtAjr/yx0X5UAX241yyKi5x7qHuboHgYqHAnU=",
+      "email": "levinmutai@gmail.com",
+      "username": "sav4ner",
+      "phonenumber": null,
+      "parent_phonenumber": null,
+      "fullname": "",
+      "picture": "Landlords/saf_OTTbTzi.png",
+      "otp": null,
+      "is_email_verified": false,
+      "date_joined": "2022-06-12T08:34:07.165Z",
+      "last_login": "2022-08-28T20:40:04.171Z",
+      "is_admin": true,
+      "is_active": true,
+      "is_staff": true,
+      "is_superuser": true,
+      "is_landlord": false
+    }
+  },
+  {
+    "model": "accounts.accounts",
+    "pk": "37",
+    "fields": {
+      "password": "pbkdf2_sha256$320000$Hs2qU5ihfqYL4LA8ZJrYPE$fim31cVqFHNKz170r9KshGUhlLvrqGEsCyBZ/OiUuFc=",
+      "email": "noreply.lefla@gmail.com",
+      "username": "lefla",
+      "phonenumber": "+254756845653",
+      "parent_phonenumber": "",
+      "fullname": "",
+      "picture": "",
+      "otp": null,
+      "is_email_verified": false,
+      "date_joined": "2022-06-12T10:34:37.928Z",
+      "last_login": "2022-06-12T10:34:37.928Z",
+      "is_admin": false,
+      "is_active": true,
+      "is_staff": false,
+      "is_superuser": false,
+      "is_landlord": false
+    }
+  },
+  {
+    "model": "accounts.accounts",
+    "pk": "40",
+    "fields": {
+      "password": "pbkdf2_sha256$320000$lxn7QYD4xKeO8pahd0xllx$OymCAL/4nyrcxVBi51LhAO4ipOnI/O1EzA/dlYbWM4Y=",
+      "email": "developersavaner@gmail.com",
+      "username": "Levin",
+      "phonenumber": null,
+      "parent_phonenumber": null,
+      "fullname": "",
+      "picture": "Landlords/saf_6lCEy5M.png",
+      "otp": null,
+      "is_email_verified": false,
+      "date_joined": "2022-06-12T16:43:21.509Z",
+      "last_login": "2022-06-12T16:43:21.509Z",
+      "is_admin": false,
+      "is_active": true,
+      "is_staff": false,
+      "is_superuser": false,
+      "is_landlord": true
+    }
+  },
+  {
+    "model": "accounts.accounts",
+    "pk": "e3c26e3b-3203-4a87-8e34-21c6932d484d",
+    "fields": {
+      "password": "lkm13464",
+      "email": "sav4ner@gmail.com",
+      "username": "Cynthia",
+      "phonenumber": "+254768850689",
+      "parent_phonenumber": null,
+      "fullname": "",
+      "picture": "",
+      "otp": null,
+      "is_email_verified": false,
+      "date_joined": "2022-08-25T20:58:33.291Z",
+      "last_login": "2022-08-25T20:58:33.291Z",
+      "is_admin": false,
+      "is_active": true,
+      "is_staff": false,
+      "is_superuser": false,
+      "is_landlord": false
+    }
+  },
+  {
+    "model": "accounts.accounts",
+    "pk": "f3f12ff1-cb9c-4879-a4c2-392b60716861",
+    "fields": {
+      "password": "lkm13464",
+      "email": "landlord@gmail.com",
+      "username": "landlord",
+      "phonenumber": "+254768850680",
+      "parent_phonenumber": null,
+      "fullname": "",
+      "picture": "",
+      "otp": null,
+      "is_email_verified": false,
+      "date_joined": "2022-08-25T18:49:15.283Z",
+      "last_login": "2022-08-25T18:49:15.283Z",
+      "is_admin": false,
+      "is_active": true,
+      "is_staff": true,
+      "is_superuser": false,
+      "is_landlord": false
+    }
+  }
+]

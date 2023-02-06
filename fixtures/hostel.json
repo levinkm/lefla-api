@@ -1,0 +1,1244 @@
+[
+  {
+    "model": "hostels.hostel",
+    "pk": 2,
+    "fields": {
+      "place_name": "Kabete",
+      "town": "Nairobi",
+      "lon": "8.5919561",
+      "lat": "12.0021794",
+      "rooms_available": 3,
+      "hostel_name": "Githumbi Rentals",
+      "hostel_description": "A rental for students with no peace of mind",
+      "hostel_rating": 1,
+      "avilable_amenities": 1,
+      "landlord": 7,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 3,
+    "fields": {
+      "place_name": "Ngong",
+      "town": "Nairobi",
+      "lon": "0E-7",
+      "lat": "0E-7",
+      "rooms_available": 0,
+      "hostel_name": "uhuru apartments",
+      "hostel_description": "A rental for students with no peace of mind",
+      "hostel_rating": 1,
+      "avilable_amenities": 2,
+      "landlord": 7,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 4,
+    "fields": {
+      "place_name": "Ruaraka",
+      "town": "Nairobi",
+      "lon": "0E-7",
+      "lat": "0E-7",
+      "rooms_available": 0,
+      "hostel_name": "Chege apartments",
+      "hostel_description": "A rental for students with no peace of mind",
+      "hostel_rating": 1,
+      "avilable_amenities": 3,
+      "landlord": 9,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 5,
+    "fields": {
+      "place_name": "Marquette",
+      "town": "Quinchía",
+      "lon": "-75.730957",
+      "lat": "5.341352",
+      "rooms_available": 35,
+      "hostel_name": "Mountain lion",
+      "hostel_description": "Unspecified kyphosis, thoracolumbar region",
+      "hostel_rating": 2,
+      "avilable_amenities": 5,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 6,
+    "fields": {
+      "place_name": "Nobel",
+      "town": "Boji",
+      "lon": "107.237743",
+      "lat": "34.363184",
+      "rooms_available": 22,
+      "hostel_name": "Bird, black-throated butcher",
+      "hostel_description": "Other fracture of lower end of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
+      "hostel_rating": 3,
+      "avilable_amenities": 6,
+      "landlord": 10,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 7,
+    "fields": {
+      "place_name": "Bonner",
+      "town": "Jabłonka",
+      "lon": "19.7094323",
+      "lat": "49.494604",
+      "rooms_available": 12,
+      "hostel_name": "Heron, yellow-crowned night",
+      "hostel_description": "Traumatic rupture of volar plate of left ring finger at metacarpophalangeal and interphalangeal joint, initial encounter",
+      "hostel_rating": 3,
+      "avilable_amenities": 7,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 8,
+    "fields": {
+      "place_name": "Buena Vista",
+      "town": "Sawahbaru",
+      "lon": "106.7205154",
+      "lat": "-6.2948133",
+      "rooms_available": 10,
+      "hostel_name": "Spectacled caiman",
+      "hostel_description": "Complete oblique atypical femoral fracture, unspecified leg",
+      "hostel_rating": 1,
+      "avilable_amenities": 8,
+      "landlord": 9,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 9,
+    "fields": {
+      "place_name": "Crest Line",
+      "town": "Maumbawa",
+      "lon": "118.1171082",
+      "lat": "-8.738072",
+      "rooms_available": 4,
+      "hostel_name": "Beaver, eurasian",
+      "hostel_description": "Frostbite with tissue necrosis of unspecified knee and lower leg, sequela",
+      "hostel_rating": 5,
+      "avilable_amenities": 9,
+      "landlord": 7,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 10,
+    "fields": {
+      "place_name": "Pierstorff",
+      "town": "Huaquillas",
+      "lon": "-80.2225448",
+      "lat": "-3.4763823",
+      "rooms_available": 17,
+      "hostel_name": "Possum, western pygmy",
+      "hostel_description": "Unspecified superficial injuries of right front wall of thorax",
+      "hostel_rating": 1,
+      "avilable_amenities": 10,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 11,
+    "fields": {
+      "place_name": "Gina",
+      "town": "Mamponteng",
+      "lon": "-1.566667",
+      "lat": "6.783333",
+      "rooms_available": 17,
+      "hostel_name": "Eastern cottontail rabbit",
+      "hostel_description": "Nondisplaced fracture of body of hamate [unciform] bone, left wrist, subsequent encounter for fracture with delayed healing",
+      "hostel_rating": 2,
+      "avilable_amenities": 11,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 12,
+    "fields": {
+      "place_name": "Blaine",
+      "town": "Matriz de Camaragibe",
+      "lon": "-35.5876697",
+      "lat": "-9.0972502",
+      "rooms_available": 7,
+      "hostel_name": "Crowned eagle",
+      "hostel_description": "Other foreign object in bronchus causing asphyxiation, sequela",
+      "hostel_rating": 5,
+      "avilable_amenities": 12,
+      "landlord": 11,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 13,
+    "fields": {
+      "place_name": "Coleman",
+      "town": "Tabasalu",
+      "lon": "24.5475697",
+      "lat": "59.4294432",
+      "rooms_available": 6,
+      "hostel_name": "Eastern quoll",
+      "hostel_description": "Blood alcohol level of 120-199 mg/100 ml",
+      "hostel_rating": 4,
+      "avilable_amenities": 13,
+      "landlord": 10,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 14,
+    "fields": {
+      "place_name": "Lukken",
+      "town": "Alua",
+      "lon": "120.8940375",
+      "lat": "15.3097361",
+      "rooms_available": 2,
+      "hostel_name": "Green heron",
+      "hostel_description": "Other injury of esophagus (thoracic part), sequela",
+      "hostel_rating": 3,
+      "avilable_amenities": 14,
+      "landlord": 12,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 15,
+    "fields": {
+      "place_name": "Cordelia",
+      "town": "Täby",
+      "lon": "18.0655876",
+      "lat": "59.4935321",
+      "rooms_available": 22,
+      "hostel_name": "Leopard",
+      "hostel_description": "Corrosion of second degree of multiple sites of right shoulder and upper limb, except wrist and hand",
+      "hostel_rating": 5,
+      "avilable_amenities": 15,
+      "landlord": 9,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 16,
+    "fields": {
+      "place_name": "Maple Wood",
+      "town": "Žirovnica",
+      "lon": "14.1375549",
+      "lat": "46.4044239",
+      "rooms_available": 9,
+      "hostel_name": "Trotter, lily",
+      "hostel_description": "Laceration with foreign body of unspecified upper arm, initial encounter",
+      "hostel_rating": 2,
+      "avilable_amenities": 16,
+      "landlord": 10,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 17,
+    "fields": {
+      "place_name": "Judy",
+      "town": "Xifangcheng",
+      "lon": "113.497098",
+      "lat": "39.612728",
+      "rooms_available": 16,
+      "hostel_name": "Eastern box turtle",
+      "hostel_description": "Other specified injury of unspecified innominate or subclavian vein, sequela",
+      "hostel_rating": 2,
+      "avilable_amenities": 17,
+      "landlord": 9,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 18,
+    "fields": {
+      "place_name": "Hovde",
+      "town": "Babushkin",
+      "lon": "40.2145002",
+      "lat": "61.6724707",
+      "rooms_available": 21,
+      "hostel_name": "Suricate",
+      "hostel_description": "Lymphangioleiomyomatosis",
+      "hostel_rating": 3,
+      "avilable_amenities": 18,
+      "landlord": 7,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 19,
+    "fields": {
+      "place_name": "Chive",
+      "town": "Shūsh",
+      "lon": "48.254283",
+      "lat": "32.1957948",
+      "rooms_available": 1,
+      "hostel_name": "Bee-eater, carmine",
+      "hostel_description": "Foreign body in left ear, subsequent encounter",
+      "hostel_rating": 4,
+      "avilable_amenities": 19,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 20,
+    "fields": {
+      "place_name": "Evergreen",
+      "town": "Fatou",
+      "lon": "116.7156302",
+      "lat": "39.793846",
+      "rooms_available": 32,
+      "hostel_name": "Dark-winged trumpeter",
+      "hostel_description": "External constriction of oral cavity, subsequent encounter",
+      "hostel_rating": 5,
+      "avilable_amenities": 20,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 21,
+    "fields": {
+      "place_name": "Maryland",
+      "town": "Kaca",
+      "lon": "119.9191194",
+      "lat": "-4.1471884",
+      "rooms_available": 20,
+      "hostel_name": "Waxbill, violet-eared",
+      "hostel_description": "Corrosions involving 50-59% of body surface",
+      "hostel_rating": 2,
+      "avilable_amenities": 21,
+      "landlord": 10,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 22,
+    "fields": {
+      "place_name": "Dottie",
+      "town": "Huage",
+      "lon": "112.666947",
+      "lat": "29.291779",
+      "rooms_available": 9,
+      "hostel_name": "Seven-banded armadillo",
+      "hostel_description": "Diffuse secondary atrophy of choroid, bilateral",
+      "hostel_rating": 4,
+      "avilable_amenities": 22,
+      "landlord": 8,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 23,
+    "fields": {
+      "place_name": "Dorton",
+      "town": "Stockholm",
+      "lon": "18.068622",
+      "lat": "59.2963732",
+      "rooms_available": 19,
+      "hostel_name": "House crow",
+      "hostel_description": "Encounter for supervision of other normal pregnancy, first trimester",
+      "hostel_rating": 1,
+      "avilable_amenities": 23,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 24,
+    "fields": {
+      "place_name": "Roth",
+      "town": "Berkovitsa",
+      "lon": "23.1251092",
+      "lat": "43.2370452",
+      "rooms_available": 27,
+      "hostel_name": "Cat, toddy",
+      "hostel_description": "Persistent migraine aura without cerebral infarction, not intractable",
+      "hostel_rating": 5,
+      "avilable_amenities": 24,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 25,
+    "fields": {
+      "place_name": "Doe Crossing",
+      "town": "Bang Ban",
+      "lon": "100.464947",
+      "lat": "14.4050979",
+      "rooms_available": 31,
+      "hostel_name": "Capuchin, white-fronted",
+      "hostel_description": "Small cell B-cell lymphoma, lymph nodes of axilla and upper limb",
+      "hostel_rating": 4,
+      "avilable_amenities": 25,
+      "landlord": 8,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 26,
+    "fields": {
+      "place_name": "Hoffman",
+      "town": "Arbeláez",
+      "lon": "-74.416014",
+      "lat": "4.272793",
+      "rooms_available": 14,
+      "hostel_name": "Pallas's fish eagle",
+      "hostel_description": "Other forms of scoliosis, thoracic region",
+      "hostel_rating": 4,
+      "avilable_amenities": 26,
+      "landlord": 9,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 27,
+    "fields": {
+      "place_name": "Grover",
+      "town": "Jesús Menéndez",
+      "lon": "-76.4736602",
+      "lat": "21.1596123",
+      "rooms_available": 27,
+      "hostel_name": "Madagascar hawk owl",
+      "hostel_description": "Other mechanical complication of other prosthetic devices, implants and grafts of genital tract, initial encounter",
+      "hostel_rating": 4,
+      "avilable_amenities": 27,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 28,
+    "fields": {
+      "place_name": "Arrowood",
+      "town": "Jinshiqiao",
+      "lon": "122.5200228",
+      "lat": "40.6238989",
+      "rooms_available": 15,
+      "hostel_name": "Goose, egyptian",
+      "hostel_description": "Poisoning by cannabis (derivatives), assault",
+      "hostel_rating": 5,
+      "avilable_amenities": 28,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 29,
+    "fields": {
+      "place_name": "Brentwood",
+      "town": "Baoshan",
+      "lon": "99.161761",
+      "lat": "25.112046",
+      "rooms_available": 23,
+      "hostel_name": "Galah",
+      "hostel_description": "Displaced fracture of proximal phalanx of right little finger, subsequent encounter for fracture with routine healing",
+      "hostel_rating": 3,
+      "avilable_amenities": 29,
+      "landlord": 11,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 30,
+    "fields": {
+      "place_name": "Golden Leaf",
+      "town": "Saint-Lô",
+      "lon": "-1.0793373",
+      "lat": "49.0993758",
+      "rooms_available": 17,
+      "hostel_name": "Cereopsis goose",
+      "hostel_description": "Benign neoplasm of lymph nodes",
+      "hostel_rating": 3,
+      "avilable_amenities": 30,
+      "landlord": 8,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 31,
+    "fields": {
+      "place_name": "Corry",
+      "town": "Tuanshan",
+      "lon": "105.606648",
+      "lat": "33.195993",
+      "rooms_available": 34,
+      "hostel_name": "Gulls (unidentified)",
+      "hostel_description": "Broken internal left knee prosthesis, sequela",
+      "hostel_rating": 2,
+      "avilable_amenities": 31,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 32,
+    "fields": {
+      "place_name": "Helena",
+      "town": "Shakhty",
+      "lon": "40.2098294",
+      "lat": "47.7314993",
+      "rooms_available": 21,
+      "hostel_name": "Southern sea lion",
+      "hostel_description": "Assault by unspecified sharp object, sequela",
+      "hostel_rating": 5,
+      "avilable_amenities": 32,
+      "landlord": 11,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 33,
+    "fields": {
+      "place_name": "Coolidge",
+      "town": "Nachalovo",
+      "lon": "48.2017123",
+      "lat": "46.3368774",
+      "rooms_available": 4,
+      "hostel_name": "Owl, australian masked",
+      "hostel_description": "Nondisplaced segmental fracture of shaft of radius, left arm, subsequent encounter for open fracture type I or II with malunion",
+      "hostel_rating": 1,
+      "avilable_amenities": 33,
+      "landlord": 7,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 34,
+    "fields": {
+      "place_name": "Melvin",
+      "town": "Ubay",
+      "lon": "121.0020785",
+      "lat": "14.6353584",
+      "rooms_available": 19,
+      "hostel_name": "Blue fox",
+      "hostel_description": "Toxic effect of ethanol, undetermined",
+      "hostel_rating": 5,
+      "avilable_amenities": 34,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 35,
+    "fields": {
+      "place_name": "Brentwood",
+      "town": "Maloarkhangel’sk",
+      "lon": "36.5028259",
+      "lat": "52.3992802",
+      "rooms_available": 2,
+      "hostel_name": "Cockatoo, roseate",
+      "hostel_description": "Striking against sports equipment with subsequent fall",
+      "hostel_rating": 2,
+      "avilable_amenities": 35,
+      "landlord": 9,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 36,
+    "fields": {
+      "place_name": "Little Fleur",
+      "town": "Kiten",
+      "lon": "27.7702053",
+      "lat": "42.2342735",
+      "rooms_available": 30,
+      "hostel_name": "Caracara, yellow-headed",
+      "hostel_description": "Nondisplaced trimalleolar fracture of unspecified lower leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",
+      "hostel_rating": 3,
+      "avilable_amenities": 36,
+      "landlord": 9,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 37,
+    "fields": {
+      "place_name": "Kensington",
+      "town": "Krasnyy Kholm",
+      "lon": "37.1162575",
+      "lat": "58.0580802",
+      "rooms_available": 28,
+      "hostel_name": "Yellow-headed caracara",
+      "hostel_description": "Other mechanical complication of other cardiac and vascular devices and implants",
+      "hostel_rating": 1,
+      "avilable_amenities": 37,
+      "landlord": 10,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 38,
+    "fields": {
+      "place_name": "Kenwood",
+      "town": "Pulau Pinang",
+      "lon": "100.3573891",
+      "lat": "5.3523231",
+      "rooms_available": 31,
+      "hostel_name": "Egyptian vulture",
+      "hostel_description": "Other injuries of right eye and orbit, sequela",
+      "hostel_rating": 1,
+      "avilable_amenities": 38,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 39,
+    "fields": {
+      "place_name": "Jay",
+      "town": "Sawangan",
+      "lon": "106.7647475",
+      "lat": "-6.4085961",
+      "rooms_available": 18,
+      "hostel_name": "Kangaroo, western grey",
+      "hostel_description": "Iridodialysis, bilateral",
+      "hostel_rating": 5,
+      "avilable_amenities": 39,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 40,
+    "fields": {
+      "place_name": "Kim",
+      "town": "Alor Setar",
+      "lon": "100.3674801",
+      "lat": "6.1244023",
+      "rooms_available": 35,
+      "hostel_name": "Jungle kangaroo",
+      "hostel_description": "Puncture wound with foreign body of right thumb with damage to nail, sequela",
+      "hostel_rating": 3,
+      "avilable_amenities": 40,
+      "landlord": 11,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 41,
+    "fields": {
+      "place_name": "Porter",
+      "town": "Šumperk",
+      "lon": "16.9717754",
+      "lat": "49.9778407",
+      "rooms_available": 19,
+      "hostel_name": "Water moccasin",
+      "hostel_description": "Toxic effect of other insecticides, intentional self-harm",
+      "hostel_rating": 4,
+      "avilable_amenities": 41,
+      "landlord": 8,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 42,
+    "fields": {
+      "place_name": "Mcbride",
+      "town": "Guajiasi",
+      "lon": "117.221729",
+      "lat": "39.098031",
+      "rooms_available": 13,
+      "hostel_name": "Malabar squirrel",
+      "hostel_description": "Abnormal serum enzyme level, unspecified",
+      "hostel_rating": 3,
+      "avilable_amenities": 42,
+      "landlord": 11,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 43,
+    "fields": {
+      "place_name": "Mcguire",
+      "town": "Condado",
+      "lon": "-35.1048713",
+      "lat": "-7.5944434",
+      "rooms_available": 8,
+      "hostel_name": "Squirrel, palm",
+      "hostel_description": "Chronic embolism and thrombosis of unspecified deep veins of right distal lower extremity",
+      "hostel_rating": 4,
+      "avilable_amenities": 43,
+      "landlord": 9,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 44,
+    "fields": {
+      "place_name": "Main",
+      "town": "Prostki",
+      "lon": "22.4329027",
+      "lat": "53.6985264",
+      "rooms_available": 21,
+      "hostel_name": "Cat, long-tailed spotted",
+      "hostel_description": "Hypoglycemia, unspecified",
+      "hostel_rating": 1,
+      "avilable_amenities": 44,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 45,
+    "fields": {
+      "place_name": "Spohn",
+      "town": "Lachowice",
+      "lon": "19.4759489",
+      "lat": "49.7147663",
+      "rooms_available": 6,
+      "hostel_name": "Egyptian cobra",
+      "hostel_description": "Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+      "hostel_rating": 4,
+      "avilable_amenities": 45,
+      "landlord": 9,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 46,
+    "fields": {
+      "place_name": "Kings",
+      "town": "Diriamba",
+      "lon": "-86.2412543",
+      "lat": "11.8586314",
+      "rooms_available": 11,
+      "hostel_name": "Ant (unidentified)",
+      "hostel_description": "Nontraumatic subarachnoid hemorrhage from other intracranial arteries",
+      "hostel_rating": 2,
+      "avilable_amenities": 46,
+      "landlord": 10,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 47,
+    "fields": {
+      "place_name": "Trailsway",
+      "town": "Tungor",
+      "lon": "142.9582995",
+      "lat": "53.3914918",
+      "rooms_available": 31,
+      "hostel_name": "Trumpeter, green-winged",
+      "hostel_description": "Nephropathy induced by other drugs, medicaments and biological substances",
+      "hostel_rating": 4,
+      "avilable_amenities": 47,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 48,
+    "fields": {
+      "place_name": "Kenwood",
+      "town": "Libato",
+      "lon": "121.401",
+      "lat": "13.8303",
+      "rooms_available": 1,
+      "hostel_name": "Blue catfish",
+      "hostel_description": "Displacement of biological heart valve graft",
+      "hostel_rating": 3,
+      "avilable_amenities": 48,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 49,
+    "fields": {
+      "place_name": "Jana",
+      "town": "Si Racha",
+      "lon": "100.9216588",
+      "lat": "13.1641308",
+      "rooms_available": 26,
+      "hostel_name": "Raccoon dog",
+      "hostel_description": "Nondisplaced transverse fracture of shaft of right radius, subsequent encounter for closed fracture with malunion",
+      "hostel_rating": 2,
+      "avilable_amenities": 49,
+      "landlord": 9,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 50,
+    "fields": {
+      "place_name": "Tennessee",
+      "town": "Biyang",
+      "lon": "113.327144",
+      "lat": "32.723975",
+      "rooms_available": 2,
+      "hostel_name": "Camel, dromedary",
+      "hostel_description": "Other extraarticular fracture of lower end of left radius, sequela",
+      "hostel_rating": 4,
+      "avilable_amenities": 50,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 51,
+    "fields": {
+      "place_name": "Colorado",
+      "town": "Haradzyeya",
+      "lon": "26.538",
+      "lat": "53.3121",
+      "rooms_available": 7,
+      "hostel_name": "Shrike, common boubou",
+      "hostel_description": "Solitary bone cyst, tibia and fibula",
+      "hostel_rating": 3,
+      "avilable_amenities": 51,
+      "landlord": 12,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 52,
+    "fields": {
+      "place_name": "Bultman",
+      "town": "Watulumbung",
+      "lon": "113.007156",
+      "lat": "-7.8028722",
+      "rooms_available": 12,
+      "hostel_name": "Sally lightfoot crab",
+      "hostel_description": "Poisoning by butyrophenone and thiothixene neuroleptics, undetermined, subsequent encounter",
+      "hostel_rating": 1,
+      "avilable_amenities": 52,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 53,
+    "fields": {
+      "place_name": "Oak Valley",
+      "town": "Zhuzuo",
+      "lon": "113.645873",
+      "lat": "33.631238",
+      "rooms_available": 10,
+      "hostel_name": "Denham's bustard",
+      "hostel_description": "Other traumatic nondisplaced spondylolisthesis of fifth cervical vertebra, subsequent encounter for fracture with nonunion",
+      "hostel_rating": 4,
+      "avilable_amenities": 53,
+      "landlord": 9,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 54,
+    "fields": {
+      "place_name": "Fulton",
+      "town": "La Curva",
+      "lon": "-71.8230371",
+      "lat": "-17.1406793",
+      "rooms_available": 18,
+      "hostel_name": "Cape wild cat",
+      "hostel_description": "Algoneurodystrophy, right forearm",
+      "hostel_rating": 2,
+      "avilable_amenities": 54,
+      "landlord": 7,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 55,
+    "fields": {
+      "place_name": "Orin",
+      "town": "Yangon",
+      "lon": "96.195132",
+      "lat": "16.8660694",
+      "rooms_available": 23,
+      "hostel_name": "Stork, openbill",
+      "hostel_description": "Abnormal auditory function study",
+      "hostel_rating": 2,
+      "avilable_amenities": 55,
+      "landlord": 12,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 56,
+    "fields": {
+      "place_name": "Summerview",
+      "town": "Rakhmanovo",
+      "lon": "37.9891132",
+      "lat": "56.1597869",
+      "rooms_available": 24,
+      "hostel_name": "Frilled dragon",
+      "hostel_description": "Displaced fracture of medial condyle of right tibia, subsequent encounter for closed fracture with malunion",
+      "hostel_rating": 2,
+      "avilable_amenities": 56,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 57,
+    "fields": {
+      "place_name": "Brentwood",
+      "town": "Nanyuan",
+      "lon": "116.3877778",
+      "lat": "39.7825",
+      "rooms_available": 11,
+      "hostel_name": "American beaver",
+      "hostel_description": "Shortness of breath",
+      "hostel_rating": 3,
+      "avilable_amenities": 57,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 58,
+    "fields": {
+      "place_name": "Sheridan",
+      "town": "Dhrosiá",
+      "lon": "23.8661305",
+      "lat": "38.119756",
+      "rooms_available": 24,
+      "hostel_name": "Red-breasted nuthatch",
+      "hostel_description": "Poisoning by expectorants, assault, subsequent encounter",
+      "hostel_rating": 2,
+      "avilable_amenities": 58,
+      "landlord": 8,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 59,
+    "fields": {
+      "place_name": "Burrows",
+      "town": "Durazno",
+      "lon": "-56.5275506",
+      "lat": "-33.3822982",
+      "rooms_available": 17,
+      "hostel_name": "Yellow-rumped siskin",
+      "hostel_description": "Macrogenia",
+      "hostel_rating": 1,
+      "avilable_amenities": 59,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 60,
+    "fields": {
+      "place_name": "Forster",
+      "town": "Pingshan",
+      "lon": "114.346251",
+      "lat": "22.691253",
+      "rooms_available": 30,
+      "hostel_name": "Small-spotted genet",
+      "hostel_description": "Driver of heavy transport vehicle injured in collision with fixed or stationary object in traffic accident, initial encounter",
+      "hostel_rating": 1,
+      "avilable_amenities": 60,
+      "landlord": 10,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 61,
+    "fields": {
+      "place_name": "Cardinal",
+      "town": "Nong Phai",
+      "lon": "101.207047",
+      "lat": "16.0045432",
+      "rooms_available": 13,
+      "hostel_name": "Carpet python",
+      "hostel_description": "Displaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with nonunion",
+      "hostel_rating": 4,
+      "avilable_amenities": 61,
+      "landlord": 10,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 62,
+    "fields": {
+      "place_name": "Hoffman",
+      "town": "Fuwah",
+      "lon": "30.5502219",
+      "lat": "31.2035483",
+      "rooms_available": 22,
+      "hostel_name": "Onager",
+      "hostel_description": "Corrosion of unspecified degree of right ankle",
+      "hostel_rating": 1,
+      "avilable_amenities": 62,
+      "landlord": 11,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 63,
+    "fields": {
+      "place_name": "Fuller",
+      "town": "Girona",
+      "lon": "2.0763253",
+      "lat": "42.2470995",
+      "rooms_available": 31,
+      "hostel_name": "Bulbul, black-eyed",
+      "hostel_description": "Morbidly adherent placenta",
+      "hostel_rating": 5,
+      "avilable_amenities": 63,
+      "landlord": 10,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 64,
+    "fields": {
+      "place_name": "Cambridge",
+      "town": "Galván",
+      "lon": "-69.9002083",
+      "lat": "18.4748726",
+      "rooms_available": 31,
+      "hostel_name": "Green-winged macaw",
+      "hostel_description": "Salter-Harris Type I physeal fracture of lower end of left tibia, initial encounter for closed fracture",
+      "hostel_rating": 3,
+      "avilable_amenities": 64,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 65,
+    "fields": {
+      "place_name": "Reinke",
+      "town": "Dengok",
+      "lon": "110.5304842",
+      "lat": "-7.9499222",
+      "rooms_available": 23,
+      "hostel_name": "Bald eagle",
+      "hostel_description": "Burn of second degree of chest wall, sequela",
+      "hostel_rating": 1,
+      "avilable_amenities": 65,
+      "landlord": 12,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 66,
+    "fields": {
+      "place_name": "Killdeer",
+      "town": "Castanheiro do Sul",
+      "lon": "-7.50549",
+      "lat": "41.1199378",
+      "rooms_available": 12,
+      "hostel_name": "Butterfly, tropical buckeye",
+      "hostel_description": "Complications of other reattached body part",
+      "hostel_rating": 3,
+      "avilable_amenities": 66,
+      "landlord": 10,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 67,
+    "fields": {
+      "place_name": "Hoard",
+      "town": "Del Campillo",
+      "lon": "-58.4794982",
+      "lat": "-34.5906948",
+      "rooms_available": 12,
+      "hostel_name": "Jaeger, long-tailed",
+      "hostel_description": "Hereditary lymphedema",
+      "hostel_rating": 3,
+      "avilable_amenities": 67,
+      "landlord": 8,
+      "lefla_for_rental_collection": true,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 68,
+    "fields": {
+      "place_name": "Pierstorff",
+      "town": "Tangchi",
+      "lon": "123.769368",
+      "lat": "46.987383",
+      "rooms_available": 31,
+      "hostel_name": "Duck, mountain",
+      "hostel_description": "Fall from non-moving wheelchair, subsequent encounter",
+      "hostel_rating": 1,
+      "avilable_amenities": 68,
+      "landlord": 8,
+      "lefla_for_rental_collection": true,
+      "hostel": false
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 69,
+    "fields": {
+      "place_name": "Old Gate",
+      "town": "Shaxi",
+      "lon": "99.850365",
+      "lat": "26.312444",
+      "rooms_available": 7,
+      "hostel_name": "Red-tailed wambenger",
+      "hostel_description": "Unspecified fracture of shaft of left femur, subsequent encounter for closed fracture with routine healing",
+      "hostel_rating": 5,
+      "avilable_amenities": 69,
+      "landlord": 8,
+      "lefla_for_rental_collection": false,
+      "hostel": true
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 70,
+    "fields": {
+      "place_name": "Pierstorff",
+      "town": "Banyubang",
+      "lon": "112.4142453",
+      "lat": "-6.9244162",
+      "rooms_available": 18,
+      "hostel_name": "Pine snake (unidentified)",
+      "hostel_description": "Burn of unspecified degree of multiple sites of left lower limb, except ankle and foot, sequela",
+      "hostel_rating": 2,
+      "avilable_amenities": 70,
+      "landlord": 10,
+      "lefla_for_rental_collection": false,
+      "hostel": false
+    }
+  }
+]

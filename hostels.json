@@ -1,0 +1,1784 @@
+[
+  {
+    "model": "hostels.hostel",
+    "pk": 1,
+    "fields": {
+      "rooms_available": 5,
+      "hostel_name": "Lighthouse Bay",
+      "hostel_description": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Laceration with foreign body of right shoulder, initial encounter",
+      "pricing": 9097,
+      "offer": 3914,
+      "deposit": 4113,
+      "lon": 120.477813,
+      "lat": 37.646108,
+      "images": 1,
+      "landlord": 1
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 2,
+    "fields": {
+      "rooms_available": 25,
+      "hostel_name": "Evergreen",
+      "hostel_description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Superficial frostbite of unspecified sites",
+      "pricing": 17865,
+      "offer": 3921,
+      "deposit": 9227,
+      "lon": 104.470164,
+      "lat": 1.008763,
+      "images": 2,
+      "landlord": 2
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 3,
+    "fields": {
+      "rooms_available": 22,
+      "hostel_name": "Hoffman",
+      "hostel_description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Monoarthritis, not elsewhere classified, left ankle and foot",
+      "pricing": 13505,
+      "offer": 2607,
+      "deposit": 9885,
+      "lon": -79.9223592,
+      "lat": -2.1709979,
+      "images": 3,
+      "landlord": 3
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 4,
+    "fields": {
+      "rooms_available": 2,
+      "hostel_name": "Sage",
+      "hostel_description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Complete traumatic metacarpophalangeal amputation of right index finger",
+      "pricing": 13395,
+      "offer": 3975,
+      "deposit": 2797,
+      "lon": 101.14473,
+      "lat": 24.187566,
+      "images": 4,
+      "landlord": 4
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 5,
+    "fields": {
+      "rooms_available": 33,
+      "hostel_name": "Rieder",
+      "hostel_description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Nondisplaced intraarticular fracture of unspecified calcaneus, subsequent encounter for fracture with delayed healing",
+      "pricing": 19672,
+      "offer": 3686,
+      "deposit": 9350,
+      "lon": 125.0897383,
+      "lat": 6.2368262,
+      "images": 5,
+      "landlord": 5
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 6,
+    "fields": {
+      "rooms_available": 6,
+      "hostel_name": "Waubesa",
+      "hostel_description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Burn of first degree of other site of trunk, initial encounter",
+      "pricing": 9821,
+      "offer": 2084,
+      "deposit": 5266,
+      "lon": 17.0837083,
+      "lat": 49.718789,
+      "images": 6,
+      "landlord": 6
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 7,
+    "fields": {
+      "rooms_available": 8,
+      "hostel_name": "Pierstorff",
+      "hostel_description": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Opioid related disorders",
+      "pricing": 11186,
+      "offer": 4309,
+      "deposit": 5864,
+      "lon": 72.2186128,
+      "lat": 41.3373738,
+      "images": 7,
+      "landlord": 7
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 8,
+    "fields": {
+      "rooms_available": 34,
+      "hostel_name": "West",
+      "hostel_description": "Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Diverticulosis of both small and large intestine without perforation or abscess with bleeding",
+      "pricing": 4379,
+      "offer": 4575,
+      "deposit": 8727,
+      "lon": 124.7188222,
+      "lat": -9.0709033,
+      "images": 8,
+      "landlord": 8
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 9,
+    "fields": {
+      "rooms_available": 14,
+      "hostel_name": "Anderson",
+      "hostel_description": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Displaced dome fracture of unspecified talus, initial encounter for open fracture",
+      "pricing": 6044,
+      "offer": 2421,
+      "deposit": 9858,
+      "lon": 117.246702,
+      "lat": 39.16405,
+      "images": 9,
+      "landlord": 9
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 10,
+    "fields": {
+      "rooms_available": 32,
+      "hostel_name": "Springview",
+      "hostel_description": "Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Unspecified fracture of lower end of right tibia, subsequent encounter for open fracture type I or II with malunion",
+      "pricing": 4764,
+      "offer": 4395,
+      "deposit": 5366,
+      "lon": 119.569305,
+      "lat": 31.068734,
+      "images": 10,
+      "landlord": 10
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 11,
+    "fields": {
+      "rooms_available": 2,
+      "hostel_name": "Elka",
+      "hostel_description": "Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Fracture of unspecified part of left clavicle, subsequent encounter for fracture with delayed healing",
+      "pricing": 14233,
+      "offer": 4162,
+      "deposit": 4204,
+      "lon": 15.887635,
+      "lat": 49.835457,
+      "images": 11,
+      "landlord": 11
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 12,
+    "fields": {
+      "rooms_available": 50,
+      "hostel_name": "Transport",
+      "hostel_description": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Pathological fracture, left hand, subsequent encounter for fracture with delayed healing",
+      "pricing": 12042,
+      "offer": 4619,
+      "deposit": 5734,
+      "lon": 107.5150139,
+      "lat": -6.4698493,
+      "images": 12,
+      "landlord": 12
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 13,
+    "fields": {
+      "rooms_available": 43,
+      "hostel_name": "Spaight",
+      "hostel_description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Unspecified injury of unspecified muscles, fascia and tendons at forearm level, unspecified arm, sequela",
+      "pricing": 5726,
+      "offer": 3983,
+      "deposit": 2689,
+      "lon": 106.8226808,
+      "lat": -6.1965654,
+      "images": 13,
+      "landlord": 13
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 14,
+    "fields": {
+      "rooms_available": 43,
+      "hostel_name": "Sommers",
+      "hostel_description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Poisoning by unspecified agents primarily affecting the cardiovascular system, assault, subsequent encounter",
+      "pricing": 6344,
+      "offer": 2166,
+      "deposit": 8825,
+      "lon": 25.4459308,
+      "lat": 36.3573462,
+      "images": 14,
+      "landlord": 14
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 15,
+    "fields": {
+      "rooms_available": 45,
+      "hostel_name": "Amoth",
+      "hostel_description": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Other disorders of optic disc",
+      "pricing": 16631,
+      "offer": 3549,
+      "deposit": 4544,
+      "lon": 31.2483291,
+      "lat": 3.4698023,
+      "images": 15,
+      "landlord": 15
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 16,
+    "fields": {
+      "rooms_available": 3,
+      "hostel_name": "Spenser",
+      "hostel_description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Major laceration of abdominal aorta, sequela",
+      "pricing": 8227,
+      "offer": 2435,
+      "deposit": 9347,
+      "lon": 25.3947277,
+      "lat": 61.0031692,
+      "images": 16,
+      "landlord": 16
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 17,
+    "fields": {
+      "rooms_available": 4,
+      "hostel_name": "Annamark",
+      "hostel_description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Nondisplaced oblique fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with nonunion",
+      "pricing": 17338,
+      "offer": 4464,
+      "deposit": 2957,
+      "lon": 4.718821,
+      "lat": 45.991471,
+      "images": 17,
+      "landlord": 17
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 18,
+    "fields": {
+      "rooms_available": 37,
+      "hostel_name": "Dixon",
+      "hostel_description": "Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Injury of radial nerve at upper arm level, right arm, sequela",
+      "pricing": 18123,
+      "offer": 3671,
+      "deposit": 9208,
+      "lon": -42.5172107,
+      "lat": -17.6929945,
+      "images": 18,
+      "landlord": 18
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 19,
+    "fields": {
+      "rooms_available": 12,
+      "hostel_name": "Mallard",
+      "hostel_description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Alcoholic hepatic failure with coma",
+      "pricing": 18230,
+      "offer": 3359,
+      "deposit": 3931,
+      "lon": -8.8073178,
+      "lat": 39.6589565,
+      "images": 19,
+      "landlord": 19
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 20,
+    "fields": {
+      "rooms_available": 49,
+      "hostel_name": "Grover",
+      "hostel_description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Other superficial bite of left great toe, sequela",
+      "pricing": 7691,
+      "offer": 2093,
+      "deposit": 7602,
+      "lon": -51.5008921,
+      "lat": -29.2950409,
+      "images": 20,
+      "landlord": 20
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 21,
+    "fields": {
+      "rooms_available": 35,
+      "hostel_name": "Sugar",
+      "hostel_description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Other specified injuries of left shoulder and upper arm, initial encounter",
+      "pricing": 17257,
+      "offer": 4359,
+      "deposit": 4346,
+      "lon": 138.1146139,
+      "lat": 36.504083,
+      "images": 21,
+      "landlord": 21
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 22,
+    "fields": {
+      "rooms_available": 23,
+      "hostel_name": "Coleman",
+      "hostel_description": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Corrosion of third degree of unspecified knee, initial encounter",
+      "pricing": 17018,
+      "offer": 3205,
+      "deposit": 2954,
+      "lon": 69.1089444,
+      "lat": 36.0534598,
+      "images": 22,
+      "landlord": 22
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 23,
+    "fields": {
+      "rooms_available": 27,
+      "hostel_name": "Lillian",
+      "hostel_description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Ascariasis",
+      "pricing": 8259,
+      "offer": 3718,
+      "deposit": 3672,
+      "lon": 108.1725154,
+      "lat": -7.6448547,
+      "images": 23,
+      "landlord": 23
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 24,
+    "fields": {
+      "rooms_available": 38,
+      "hostel_name": "Porter",
+      "hostel_description": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Unspecified trochanteric fracture of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",
+      "pricing": 7905,
+      "offer": 4899,
+      "deposit": 3926,
+      "lon": 112.9586863,
+      "lat": -2.5394654,
+      "images": 24,
+      "landlord": 24
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 25,
+    "fields": {
+      "rooms_available": 18,
+      "hostel_name": "Reinke",
+      "hostel_description": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Abnormal posture",
+      "pricing": 19687,
+      "offer": 2364,
+      "deposit": 2522,
+      "lon": 110.9561,
+      "lat": -6.427987,
+      "images": 25,
+      "landlord": 25
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 26,
+    "fields": {
+      "rooms_available": 20,
+      "hostel_name": "Northland",
+      "hostel_description": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Other extraarticular fracture of lower end of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
+      "pricing": 11954,
+      "offer": 3464,
+      "deposit": 5006,
+      "lon": 113.95494,
+      "lat": 22.558237,
+      "images": 26,
+      "landlord": 26
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 27,
+    "fields": {
+      "rooms_available": 14,
+      "hostel_name": "Kensington",
+      "hostel_description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Other disorders of bone development and growth, left hand",
+      "pricing": 15837,
+      "offer": 4336,
+      "deposit": 9866,
+      "lon": 121.0004951,
+      "lat": 6.0536421,
+      "images": 27,
+      "landlord": 27
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 28,
+    "fields": {
+      "rooms_available": 45,
+      "hostel_name": "Esch",
+      "hostel_description": "Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Capsular glaucoma with pseudoexfoliation of lens, left eye, stage unspecified",
+      "pricing": 14843,
+      "offer": 4823,
+      "deposit": 2662,
+      "lon": 31.9899648,
+      "lat": -3.4944313,
+      "images": 28,
+      "landlord": 28
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 29,
+    "fields": {
+      "rooms_available": 30,
+      "hostel_name": "3rd",
+      "hostel_description": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Laceration without foreign body of left buttock, sequela",
+      "pricing": 13049,
+      "offer": 3217,
+      "deposit": 5092,
+      "lon": 120.16366,
+      "lat": 33.347316,
+      "images": 29,
+      "landlord": 29
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 30,
+    "fields": {
+      "rooms_available": 13,
+      "hostel_name": "Schurz",
+      "hostel_description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Displaced comminuted fracture of shaft of ulna, unspecified arm, subsequent encounter for open fracture type I or II with routine healing",
+      "pricing": 8593,
+      "offer": 2256,
+      "deposit": 2096,
+      "lon": 120.5854674,
+      "lat": 23.959574,
+      "images": 30,
+      "landlord": 30
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 31,
+    "fields": {
+      "rooms_available": 7,
+      "hostel_name": "Coolidge",
+      "hostel_description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Complications of anesthesia during the puerperium",
+      "pricing": 11712,
+      "offer": 2810,
+      "deposit": 5384,
+      "lon": 121.9195586,
+      "lat": 7.0228416,
+      "images": 31,
+      "landlord": 31
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 32,
+    "fields": {
+      "rooms_available": 46,
+      "hostel_name": "Anniversary",
+      "hostel_description": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Other specified diseases of hard tissues of teeth",
+      "pricing": 13265,
+      "offer": 2023,
+      "deposit": 6807,
+      "lon": 7.3732655,
+      "lat": 6.8429422,
+      "images": 32,
+      "landlord": 32
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 33,
+    "fields": {
+      "rooms_available": 16,
+      "hostel_name": "Delladonna",
+      "hostel_description": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Other peripheral vertigo, bilateral",
+      "pricing": 11318,
+      "offer": 4984,
+      "deposit": 4649,
+      "lon": 102.8340449,
+      "lat": 47.1900322,
+      "images": 33,
+      "landlord": 33
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 34,
+    "fields": {
+      "rooms_available": 16,
+      "hostel_name": "Forest",
+      "hostel_description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Unspecified bus occupant injured in collision with unspecified motor vehicles in nontraffic accident, sequela",
+      "pricing": 15577,
+      "offer": 4347,
+      "deposit": 3044,
+      "lon": 5.7218985,
+      "lat": 45.1934857,
+      "images": 34,
+      "landlord": 34
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 35,
+    "fields": {
+      "rooms_available": 3,
+      "hostel_name": "Sundown",
+      "hostel_description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Blister (nonthermal) of right middle finger",
+      "pricing": 14250,
+      "offer": 3503,
+      "deposit": 3853,
+      "lon": 5.7504953,
+      "lat": 45.1476503,
+      "images": 35,
+      "landlord": 35
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 37,
+    "fields": {
+      "rooms_available": 7,
+      "hostel_name": "Hintze",
+      "hostel_description": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+      "hostel_rating": 1,
+      "avilable_amenities": "External constriction of right front wall of thorax, sequela",
+      "pricing": 13694,
+      "offer": 2914,
+      "deposit": 7764,
+      "lon": -62.2749967,
+      "lat": -38.7589114,
+      "images": 37,
+      "landlord": 37
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 38,
+    "fields": {
+      "rooms_available": 16,
+      "hostel_name": "Thackeray",
+      "hostel_description": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Unspecified injury of muscle, fascia and tendon of lower back",
+      "pricing": 16325,
+      "offer": 2669,
+      "deposit": 8826,
+      "lon": 110.7480064,
+      "lat": -6.8897321,
+      "images": 38,
+      "landlord": 38
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 39,
+    "fields": {
+      "rooms_available": 2,
+      "hostel_name": "Levin Hostels",
+      "hostel_description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Foster-Kennedy syndrome, right eye",
+      "pricing": 18314,
+      "offer": 4932,
+      "deposit": 3282,
+      "lon": 116.1093533,
+      "lat": -8.6743207,
+      "images": 39,
+      "landlord": 39
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 40,
+    "fields": {
+      "rooms_available": 31,
+      "hostel_name": "Dottie",
+      "hostel_description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Preterm newborn, gestational age 28 completed weeks",
+      "pricing": 13585,
+      "offer": 4661,
+      "deposit": 6361,
+      "lon": 110.321723,
+      "lat": 40.784544,
+      "images": 40,
+      "landlord": 40
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 41,
+    "fields": {
+      "rooms_available": 45,
+      "hostel_name": "Lothevilles Hostels",
+      "hostel_description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Pelvic varices",
+      "pricing": 9954,
+      "offer": 3483,
+      "deposit": 3768,
+      "lon": 112.7509656,
+      "lat": -8.1277952,
+      "images": 41,
+      "landlord": 41
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 42,
+    "fields": {
+      "rooms_available": 28,
+      "hostel_name": "Gulseth Hostels",
+      "hostel_description": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Unspecified physeal fracture of unspecified calcaneus, initial encounter for closed fracture",
+      "pricing": 12987,
+      "offer": 3739,
+      "deposit": 3746,
+      "lon": 16.5775355,
+      "lat": 49.7478983,
+      "images": 42,
+      "landlord": 2
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 43,
+    "fields": {
+      "rooms_available": 14,
+      "hostel_name": "Lothevillesp",
+      "hostel_description": "Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Complete traumatic amputation at level between right hip and knee, sequela",
+      "pricing": 17038,
+      "offer": 3669,
+      "deposit": 8136,
+      "lon": 103.8832261,
+      "lat": 1.3573565,
+      "images": 43,
+      "landlord": 3
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 44,
+    "fields": {
+      "rooms_available": 48,
+      "hostel_name": "Thompson",
+      "hostel_description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Mantle cell lymphoma, lymph nodes of head, face, and neck",
+      "pricing": 18605,
+      "offer": 3156,
+      "deposit": 6665,
+      "lon": 36.9218584,
+      "lat": -17.8502636,
+      "images": 44,
+      "landlord": 1
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 45,
+    "fields": {
+      "rooms_available": 2,
+      "hostel_name": " Kicka Hostels",
+      "hostel_description": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Unspecified fracture of lower end of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",
+      "pricing": 16780,
+      "offer": 4716,
+      "deposit": 2260,
+      "lon": 114.514893,
+      "lat": 38.042805,
+      "images": 45,
+      "landlord": 45
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 46,
+    "fields": {
+      "rooms_available": 29,
+      "hostel_name": "Harbort",
+      "hostel_description": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Rh incompatibility with hemolytic transfusion reaction, unspecified",
+      "pricing": 14817,
+      "offer": 4014,
+      "deposit": 3080,
+      "lon": -50.247365,
+      "lat": -29.899528,
+      "images": 46,
+      "landlord": 46
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 47,
+    "fields": {
+      "rooms_available": 26,
+      "hostel_name": "Meadow",
+      "hostel_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium",
+      "pricing": 5527,
+      "offer": 3036,
+      "deposit": 9630,
+      "lon": 113.943274,
+      "lat": 31.070643,
+      "images": 47,
+      "landlord": 47
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 48,
+    "fields": {
+      "rooms_available": 10,
+      "hostel_name": "Pond Hostels",
+      "hostel_description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Nondisplaced Maisonneuve's fracture of right leg, subsequent encounter for open fracture type I or II with routine healing",
+      "pricing": 7817,
+      "offer": 2395,
+      "deposit": 3589,
+      "lon": 116.341395,
+      "lat": 39.726929,
+      "images": 48,
+      "landlord": 48
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 49,
+    "fields": {
+      "rooms_available": 4,
+      "hostel_name": "Kenwood",
+      "hostel_description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Military operations involving flamethrower, military personnel, sequela",
+      "pricing": 4314,
+      "offer": 3297,
+      "deposit": 9370,
+      "lon": -72.1031057,
+      "lat": 18.8350125,
+      "images": 49,
+      "landlord": 49
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 50,
+    "fields": {
+      "rooms_available": 12,
+      "hostel_name": "Ronald Regan",
+      "hostel_description": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Other specified injury of radial artery at wrist and hand level of right arm",
+      "pricing": 17822,
+      "offer": 4165,
+      "deposit": 5669,
+      "lon": -2.6722992,
+      "lat": 42.8436672,
+      "images": 50,
+      "landlord": 50
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 51,
+    "fields": {
+      "rooms_available": 31,
+      "hostel_name": "Gale",
+      "hostel_description": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Unspecified complication following infusion and therapeutic injection, initial encounter",
+      "pricing": 12881,
+      "offer": 4872,
+      "deposit": 6003,
+      "lon": 108.715716,
+      "lat": 34.313074,
+      "images": 51,
+      "landlord": 51
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 52,
+    "fields": {
+      "rooms_available": 9,
+      "hostel_name": "Golf View",
+      "hostel_description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Open bite of unspecified cheek and temporomandibular area, sequela",
+      "pricing": 19631,
+      "offer": 2089,
+      "deposit": 3338,
+      "lon": 116.418465,
+      "lat": 39.917717,
+      "images": 52,
+      "landlord": 52
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 53,
+    "fields": {
+      "rooms_available": 43,
+      "hostel_name": "Havey",
+      "hostel_description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Traumatic rupture of left ear drum, subsequent encounter",
+      "pricing": 8875,
+      "offer": 4547,
+      "deposit": 9046,
+      "lon": 30.7629879,
+      "lat": 59.6452799,
+      "images": 53,
+      "landlord": 53
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 54,
+    "fields": {
+      "rooms_available": 16,
+      "hostel_name": "Oriole",
+      "hostel_description": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Pedestrian on roller-skates injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident",
+      "pricing": 11186,
+      "offer": 3137,
+      "deposit": 6613,
+      "lon": 44.4955531,
+      "lat": 56.1085807,
+      "images": 54,
+      "landlord": 54
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 55,
+    "fields": {
+      "rooms_available": 46,
+      "hostel_name": "Oakridge",
+      "hostel_description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Nondisplaced fracture of unspecified radial styloid process, initial encounter for open fracture type I or II",
+      "pricing": 7080,
+      "offer": 2920,
+      "deposit": 9425,
+      "lon": 6.087112,
+      "lat": 45.875212,
+      "images": 55,
+      "landlord": 55
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 56,
+    "fields": {
+      "rooms_available": 45,
+      "hostel_name": "Westport Hostels",
+      "hostel_description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Driver of bus injured in collision with other nonmotor vehicle in nontraffic accident",
+      "pricing": 12321,
+      "offer": 3754,
+      "deposit": 2541,
+      "lon": 22.4712129,
+      "lat": 40.5555236,
+      "images": 56,
+      "landlord": 56
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 57,
+    "fields": {
+      "rooms_available": 40,
+      "hostel_name": "Killdeer",
+      "hostel_description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Unspecified disseminated chorioretinal inflammation, right eye",
+      "pricing": 17073,
+      "offer": 2785,
+      "deposit": 4108,
+      "lon": 5.8978018,
+      "lat": 43.4945737,
+      "images": 57,
+      "landlord": 57
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 58,
+    "fields": {
+      "rooms_available": 8,
+      "hostel_name": "Stuartkinsons",
+      "hostel_description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Poisoning by antiasthmatics, undetermined, sequela",
+      "pricing": 16084,
+      "offer": 3457,
+      "deposit": 2301,
+      "lon": 123.374698,
+      "lat": 41.790245,
+      "images": 58,
+      "landlord": 58
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 59,
+    "fields": {
+      "rooms_available": 44,
+      "hostel_name": "Prentice",
+      "hostel_description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Strain of unspecified muscle and tendon at ankle and foot level, left foot, sequela",
+      "pricing": 13252,
+      "offer": 3778,
+      "deposit": 3895,
+      "lon": -74.9327583,
+      "lat": -14.8358687,
+      "images": 59,
+      "landlord": 59
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 60,
+    "fields": {
+      "rooms_available": 46,
+      "hostel_name": "Del Mar",
+      "hostel_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Underdosing of aspirin",
+      "pricing": 16682,
+      "offer": 3838,
+      "deposit": 6815,
+      "lon": 121.3325306,
+      "lat": 30.1755285,
+      "images": 60,
+      "landlord": 60
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 61,
+    "fields": {
+      "rooms_available": 31,
+      "hostel_name": "Anthes",
+      "hostel_description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Other fracture of upper end of right radius, subsequent encounter for open fracture type I or II with malunion",
+      "pricing": 17867,
+      "offer": 2975,
+      "deposit": 6920,
+      "lon": 120.0624898,
+      "lat": 15.1163904,
+      "images": 61,
+      "landlord": 61
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 62,
+    "fields": {
+      "rooms_available": 47,
+      "hostel_name": "Iowa",
+      "hostel_description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Unspecified open wound of elbow",
+      "pricing": 16970,
+      "offer": 3622,
+      "deposit": 8431,
+      "lon": -72.970517,
+      "lat": 6.474867,
+      "images": 62,
+      "landlord": 62
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 63,
+    "fields": {
+      "rooms_available": 24,
+      "hostel_name": "Rusk",
+      "hostel_description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Stress fracture, pelvis and femur",
+      "pricing": 17977,
+      "offer": 2635,
+      "deposit": 9354,
+      "lon": 60.2122499,
+      "lat": 55.456622,
+      "images": 63,
+      "landlord": 63
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 64,
+    "fields": {
+      "rooms_available": 7,
+      "hostel_name": "Oaks Appartment",
+      "hostel_description": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Venous engorgement",
+      "pricing": 18412,
+      "offer": 3132,
+      "deposit": 5285,
+      "lon": 18.553654,
+      "lat": 52.1683391,
+      "images": 64,
+      "landlord": 64
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 65,
+    "fields": {
+      "rooms_available": 28,
+      "hostel_name": "Colemans Ridges",
+      "hostel_description": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Unspecified injury of deep palmar arch of unspecified hand",
+      "pricing": 7476,
+      "offer": 4783,
+      "deposit": 3804,
+      "lon": 108.3474974,
+      "lat": -7.1591357,
+      "images": 65,
+      "landlord": 65
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 66,
+    "fields": {
+      "rooms_available": 45,
+      "hostel_name": "Alpine",
+      "hostel_description": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Corrosion of second degree of scalp [any part], subsequent encounter",
+      "pricing": 9904,
+      "offer": 2423,
+      "deposit": 7647,
+      "lon": -77.0136483,
+      "lat": 38.8920292,
+      "images": 66,
+      "landlord": 66
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 67,
+    "fields": {
+      "rooms_available": 14,
+      "hostel_name": "Commercial",
+      "hostel_description": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Partial traumatic amputation at level between knee and ankle",
+      "pricing": 10845,
+      "offer": 4772,
+      "deposit": 4598,
+      "lon": 22.8545674,
+      "lat": 36.7312876,
+      "images": 67,
+      "landlord": 67
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 68,
+    "fields": {
+      "rooms_available": 12,
+      "hostel_name": "Lien",
+      "hostel_description": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Facial weakness",
+      "pricing": 15273,
+      "offer": 2997,
+      "deposit": 4316,
+      "lon": 45.7788684,
+      "lat": 57.8512804,
+      "images": 68,
+      "landlord": 68
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 69,
+    "fields": {
+      "rooms_available": 34,
+      "hostel_name": "Talmadge",
+      "hostel_description": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Encounter for adjustment and management of implanted device",
+      "pricing": 4095,
+      "offer": 3201,
+      "deposit": 5398,
+      "lon": -80.817935,
+      "lat": 35.3328119,
+      "images": 69,
+      "landlord": 69
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 70,
+    "fields": {
+      "rooms_available": 41,
+      "hostel_name": "Anderson Hostels",
+      "hostel_description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Burn of first degree of back of left hand, sequela",
+      "pricing": 15369,
+      "offer": 2635,
+      "deposit": 3073,
+      "lon": 101.96231,
+      "lat": 30.04952,
+      "images": 70,
+      "landlord": 70
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 71,
+    "fields": {
+      "rooms_available": 35,
+      "hostel_name": "Canary",
+      "hostel_description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Unspecified injury of gallbladder, initial encounter",
+      "pricing": 11519,
+      "offer": 4856,
+      "deposit": 2686,
+      "lon": -58.4059227,
+      "lat": -16.3753091,
+      "images": 71,
+      "landlord": 71
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 72,
+    "fields": {
+      "rooms_available": 42,
+      "hostel_name": "Stuarts Hostel",
+      "hostel_description": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Nondisplaced fracture of base of neck of right femur, subsequent encounter for open fracture type I or II with routine healing",
+      "pricing": 18112,
+      "offer": 3993,
+      "deposit": 4770,
+      "lon": 50.3172249,
+      "lat": 33.2811677,
+      "images": 72,
+      "landlord": 72
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 73,
+    "fields": {
+      "rooms_available": 50,
+      "hostel_name": "Valley Edge",
+      "hostel_description": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Unspecified pedal cyclist injured in collision with pedestrian or animal in nontraffic accident, sequela",
+      "pricing": 19925,
+      "offer": 2905,
+      "deposit": 2302,
+      "lon": 119.020584,
+      "lat": 33.025433,
+      "images": 73,
+      "landlord": 73
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 74,
+    "fields": {
+      "rooms_available": 37,
+      "hostel_name": "Eggendart",
+      "hostel_description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Burn of unspecified degree of right lower leg, initial encounter",
+      "pricing": 11591,
+      "offer": 3267,
+      "deposit": 8018,
+      "lon": 126.4816856,
+      "lat": 34.9904542,
+      "images": 74,
+      "landlord": 74
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 75,
+    "fields": {
+      "rooms_available": 26,
+      "hostel_name": "Porter Hostels",
+      "hostel_description": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Nondisplaced avulsion fracture of right ischium, initial encounter for closed fracture",
+      "pricing": 8348,
+      "offer": 2366,
+      "deposit": 7840,
+      "lon": 38.2778412,
+      "lat": 48.3115536,
+      "images": 75,
+      "landlord": 75
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 76,
+    "fields": {
+      "rooms_available": 33,
+      "hostel_name": "Atwood",
+      "hostel_description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",
+      "hostel_rating": 2,
+      "avilable_amenities": "External constriction, right thigh, sequela",
+      "pricing": 14389,
+      "offer": 4944,
+      "deposit": 8106,
+      "lon": 14.437676,
+      "lat": 35.888861,
+      "images": 76,
+      "landlord": 76
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 77,
+    "fields": {
+      "rooms_available": 28,
+      "hostel_name": "Daystar",
+      "hostel_description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Papyraceous fetus, third trimester, not applicable or unspecified",
+      "pricing": 15528,
+      "offer": 2973,
+      "deposit": 3724,
+      "lon": -55.6287206,
+      "lat": -34.4867748,
+      "images": 77,
+      "landlord": 77
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 78,
+    "fields": {
+      "rooms_available": 33,
+      "hostel_name": "Shoshone",
+      "hostel_description": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Animal-rider injured in collision with two- or three-wheeled motor vehicle",
+      "pricing": 19376,
+      "offer": 3283,
+      "deposit": 7934,
+      "lon": 56.174166,
+      "lat": 57.737194,
+      "images": 78,
+      "landlord": 78
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 79,
+    "fields": {
+      "rooms_available": 49,
+      "hostel_name": "Hanover",
+      "hostel_description": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of vagina (ASC-H)",
+      "pricing": 11687,
+      "offer": 3797,
+      "deposit": 2044,
+      "lon": 66.0195894,
+      "lat": 37.4202216,
+      "images": 79,
+      "landlord": 79
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 80,
+    "fields": {
+      "rooms_available": 43,
+      "hostel_name": "Cardinal",
+      "hostel_description": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Displaced subtrochanteric fracture of left femur, subsequent encounter for closed fracture with malunion",
+      "pricing": 6719,
+      "offer": 3944,
+      "deposit": 2943,
+      "lon": 113.875245,
+      "lat": 35.30385,
+      "images": 80,
+      "landlord": 80
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 81,
+    "fields": {
+      "rooms_available": 37,
+      "hostel_name": "Westport",
+      "hostel_description": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Epicranial subaponeurotic hemorrhage due to birth injury",
+      "pricing": 5200,
+      "offer": 4279,
+      "deposit": 3426,
+      "lon": 117.210612,
+      "lat": 32.197328,
+      "images": 81,
+      "landlord": 81
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 82,
+    "fields": {
+      "rooms_available": 34,
+      "hostel_name": "Raven",
+      "hostel_description": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Displaced fracture of epiphysis (separation) (upper) of right femur, subsequent encounter for open fracture type I or II with routine healing",
+      "pricing": 15644,
+      "offer": 4761,
+      "deposit": 9669,
+      "lon": -0.5339182,
+      "lat": 44.7947734,
+      "images": 82,
+      "landlord": 82
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 83,
+    "fields": {
+      "rooms_available": 35,
+      "hostel_name": "Forster",
+      "hostel_description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Outlet dysfunction constipation",
+      "pricing": 4124,
+      "offer": 4450,
+      "deposit": 5077,
+      "lon": 105.011894,
+      "lat": 34.563589,
+      "images": 83,
+      "landlord": 83
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 84,
+    "fields": {
+      "rooms_available": 36,
+      "hostel_name": "Meadow Ridge",
+      "hostel_description": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Laceration without foreign body of unspecified shoulder",
+      "pricing": 4513,
+      "offer": 2669,
+      "deposit": 5686,
+      "lon": -8.4528179,
+      "lat": 37.1358509,
+      "images": 84,
+      "landlord": 84
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 85,
+    "fields": {
+      "rooms_available": 12,
+      "hostel_name": "Kennedy Ngugi",
+      "hostel_description": "Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Toxic effect of copper and its compounds, intentional self-harm",
+      "pricing": 8968,
+      "offer": 2478,
+      "deposit": 3449,
+      "lon": 2.4751086,
+      "lat": 48.8493975,
+      "images": 85,
+      "landlord": 85
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 86,
+    "fields": {
+      "rooms_available": 27,
+      "hostel_name": "Eastlawn",
+      "hostel_description": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Other fracture of upper end of right tibia",
+      "pricing": 7505,
+      "offer": 2943,
+      "deposit": 5767,
+      "lon": 45.35898,
+      "lat": 43.09476,
+      "images": 86,
+      "landlord": 86
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 87,
+    "fields": {
+      "rooms_available": 10,
+      "hostel_name": "Arkansas",
+      "hostel_description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain",
+      "pricing": 9504,
+      "offer": 3339,
+      "deposit": 5729,
+      "lon": -51.8452266,
+      "lat": -21.8737026,
+      "images": 87,
+      "landlord": 87
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 88,
+    "fields": {
+      "rooms_available": 18,
+      "hostel_name": "Hallows",
+      "hostel_description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Unspecified inflammatory spondylopathy, occipito-atlanto-axial region",
+      "pricing": 14169,
+      "offer": 4736,
+      "deposit": 6331,
+      "lon": 124.5313,
+      "lat": -9.906,
+      "images": 88,
+      "landlord": 88
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 89,
+    "fields": {
+      "rooms_available": 24,
+      "hostel_name": "Fordem",
+      "hostel_description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye",
+      "pricing": 8353,
+      "offer": 4158,
+      "deposit": 8074,
+      "lon": 88.6241351,
+      "lat": 24.3635886,
+      "images": 89,
+      "landlord": 89
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 90,
+    "fields": {
+      "rooms_available": 5,
+      "hostel_name": "Sullivan",
+      "hostel_description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Nondisplaced unspecified fracture of left great toe",
+      "pricing": 5177,
+      "offer": 2026,
+      "deposit": 4030,
+      "lon": 4.5232397,
+      "lat": 7.5143959,
+      "images": 90,
+      "landlord": 90
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 91,
+    "fields": {
+      "rooms_available": 27,
+      "hostel_name": "Myrtle",
+      "hostel_description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Corrosion of second degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter",
+      "pricing": 14482,
+      "offer": 3474,
+      "deposit": 7984,
+      "lon": 9.8358611,
+      "lat": 10.1258199,
+      "images": 91,
+      "landlord": 91
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 92,
+    "fields": {
+      "rooms_available": 23,
+      "hostel_name": "Straubel",
+      "hostel_description": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Corrosions involving 80-89% of body surface with 0% to 9% third degree corrosion",
+      "pricing": 11776,
+      "offer": 2847,
+      "deposit": 8113,
+      "lon": -73.170822,
+      "lat": -16.025181,
+      "images": 92,
+      "landlord": 92
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 93,
+    "fields": {
+      "rooms_available": 36,
+      "hostel_name": "Pankratz",
+      "hostel_description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Displaced transverse fracture of shaft of right fibula, subsequent encounter for open fracture type I or II with malunion",
+      "pricing": 6712,
+      "offer": 2620,
+      "deposit": 2772,
+      "lon": 72.0109863,
+      "lat": 34.0083715,
+      "images": 93,
+      "landlord": 93
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 94,
+    "fields": {
+      "rooms_available": 23,
+      "hostel_name": "Debs",
+      "hostel_description": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Nondisplaced fracture of cuboid bone of unspecified foot, subsequent encounter for fracture with malunion",
+      "pricing": 14028,
+      "offer": 4377,
+      "deposit": 3468,
+      "lon": 106.5584071,
+      "lat": 9.9077234,
+      "images": 94,
+      "landlord": 94
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 95,
+    "fields": {
+      "rooms_available": 15,
+      "hostel_name": "Colorado",
+      "hostel_description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "hostel_rating": 3,
+      "avilable_amenities": "Transient synovitis, right elbow",
+      "pricing": 15103,
+      "offer": 3518,
+      "deposit": 9968,
+      "lon": 18.0919863,
+      "lat": 59.2423385,
+      "images": 95,
+      "landlord": 95
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 96,
+    "fields": {
+      "rooms_available": 5,
+      "hostel_name": "Brown",
+      "hostel_description": "Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+      "hostel_rating": 5,
+      "avilable_amenities": "Malignant neoplasm of cortex of left adrenal gland",
+      "pricing": 17238,
+      "offer": 4543,
+      "deposit": 7120,
+      "lon": 122.0103514,
+      "lat": 13.3393279,
+      "images": 96,
+      "landlord": 96
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 97,
+    "fields": {
+      "rooms_available": 42,
+      "hostel_name": "Russell",
+      "hostel_description": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+      "hostel_rating": 2,
+      "avilable_amenities": "Laceration of intrinsic muscle and tendon at ankle and foot level, right foot, subsequent encounter",
+      "pricing": 10652,
+      "offer": 4759,
+      "deposit": 9807,
+      "lon": 19.1136024,
+      "lat": 51.3307349,
+      "images": 97,
+      "landlord": 97
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 98,
+    "fields": {
+      "rooms_available": 17,
+      "hostel_name": "Derek",
+      "hostel_description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Double pterygium of left eye",
+      "pricing": 7909,
+      "offer": 3350,
+      "deposit": 6474,
+      "lon": 29.2362124,
+      "lat": -25.0455177,
+      "images": 98,
+      "landlord": 98
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 99,
+    "fields": {
+      "rooms_available": 13,
+      "hostel_name": "Division",
+      "hostel_description": "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat.",
+      "hostel_rating": 4,
+      "avilable_amenities": "Unspecified hearing loss, unspecified ear",
+      "pricing": 11614,
+      "offer": 4333,
+      "deposit": 8771,
+      "lon": -8.2693138,
+      "lat": 41.1163724,
+      "images": 99,
+      "landlord": 99
+    }
+  },
+  {
+    "model": "hostels.hostel",
+    "pk": 100,
+    "fields": {
+      "rooms_available": 44,
+      "hostel_name": "Hauk",
+      "hostel_description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+      "hostel_rating": 1,
+      "avilable_amenities": "Terrorism involving fires, conflagration and hot substances, civilian injured, subsequent encounter",
+      "pricing": 19958,
+      "offer": 3202,
+      "deposit": 6193,
+      "lon": -0.8494862,
+      "lat": 47.0682122,
+      "images": 100,
+      "landlord": 100
+    }
+  }
+]
