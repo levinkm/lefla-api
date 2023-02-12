@@ -54,28 +54,29 @@ class login(TokenViewBase):
                         status=status.HTTP_401_UNAUTHORIZED,
                         exception=True,
                     )
-                else:
-                    serializer.is_valid(raise_exception=True)
+                elif user.is_active:
+                    if serializer.is_valid(raise_exception=True):
+                        Response(serializer.validated_data, status=status.HTTP_200_OK)
+
             except Exception as e:
                 return Response(
                     {
                         "LoginError": "incorrect username or password",
-                        "status": status.HTTP_203_NON_AUTHORITATIVE_INFORMATION,
+                        "status": status.HTTP_403_FORBIDDEN,
                     },
-                    status=status.HTTP_203_NON_AUTHORITATIVE_INFORMATION,
+                    status=status.HTTP_403_FORBIDDEN,
                     exception=True,
                 )
         except TokenError as e:
             # raise InvalidToken(e.args[0])
             return Response(
                 {
-                    "LoginError": "incorrect password",
+                    "LoginError": str(e),
                     "status": status.HTTP_401_UNAUTHORIZED,
                 },
                 status=status.HTTP_401_UNAUTHORIZED,
                 exception=True,
             )
-        return Response(serializer.validated_data, status=status.HTTP_200_OK)
 
 
 class tokenObtain(TOKEN_OBTAIN_SERIALIZER):
