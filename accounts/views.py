@@ -215,7 +215,7 @@ class register(generics.CreateAPIView):
         else:
             return Response(
                 {
-                    "error": "invalid creds",
+                    "error": serializer.errors,
                     "status": status.HTTP_400_BAD_REQUEST,
                     "success": False,
                 },
