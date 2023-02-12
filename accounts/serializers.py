@@ -43,6 +43,13 @@ class RegisterSerializer(ModelSerializer):
     def validate(self, data):
         if data["password"] != data["password_confirmation"]:
             raise ValidationError({"error_message": "Passwords do not match"})
+        if (
+            data["username"].upper() == "ADMIN"
+            or data["username"].upper() == "SUPERADMIN"
+            or data["username"].upper() == "USER"
+            or data["username"].upper() == "SUPERUSER"
+        ):
+            raise ValidationError({"error_message": "Kindly choose another username"})
         return data
 
     def create(self, validated_data):
