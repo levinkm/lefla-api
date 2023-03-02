@@ -20,8 +20,8 @@ urlpatterns = [
     # hostel
     path("hostels-cat/<category>", CategoryHostelView.as_view()),
     path("", include(hostels.urls)),
-    # path("", include(rooms.urls)),
-    path("rooms/", RoomListAPIViewset.as_view({"get": "list"})),
+    path("", include(rooms.urls)),
+    # path("rooms/", RoomListAPIViewset.as_view({"get": "list"})),
     path("add-hostel", HostelCreateViewSet.as_view()),
     path("search-rooms", SearchRoomsView.as_view()),
     # Wallet

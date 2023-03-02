@@ -17,6 +17,7 @@ from .serializers import (
     HostelSearcherializer,
     RoomSerializer,
     WalletSerializer,
+    RoomSerializerDetailed,
 )
 
 from .pillowutils import compress_img
@@ -31,7 +32,7 @@ from django.views.decorators.vary import vary_on_headers
 class LargeResultsSetPagination(pagination.PageNumberPagination):
     """Class for Custom Pagination"""
 
-    page_size = 25
+    page_size = 10
     page_size_query_param = "page_size"
     max_page_size = 1000
 
@@ -148,15 +149,30 @@ class RoomListAPIViewset(viewsets.ModelViewSet):
         )
     )
     def list(self, request, *args, **kwargs):
+        detailed = (
+            request.GET.get("detailed") if request.GET.get("detailed") else "False"
+        )
 
-        specific_job = Room.objects.filter(number_of_rooms_avilable__gte=1)
-        serializer = self.serializer_class(specific_job, many=True)
-        context = {
-            "data": serializer.data,
-            "success": True,
-            "status": status.HTTP_200_OK,
-        }
-        return Response(context, status=status.HTTP_200_OK)
+        if str(detailed.upper()) == "TRUE":
+            specific_job = Room.objects.filter(is_booked=False)
+            serializer = RoomSerializerDetailed(specific_job, many=True)
+            context = {
+                "data": serializer.data,
+                "success": True,
+                "status": status.HTTP_200_OK,
+            }
+            return Response(context, status=status.HTTP_200_OK)
+
+        else:
+
+            specific_job = Room.objects.filter(is_booked=False)
+            serializer = self.serializer_class(specific_job, many=True)
+            context = {
+                "data": serializer.data,
+                "success": True,
+                "status": status.HTTP_200_OK,
+            }
+            return Response(context, status=status.HTTP_200_OK)
 
     @method_decorator(cache_page(60 * 20))
     @method_decorator(
@@ -166,8 +182,8 @@ class RoomListAPIViewset(viewsets.ModelViewSet):
     )
     def retrieve(self, request, *args, **kwargs):
         params = kwargs
-        data = Room.objects.filter(id=int(params["id"]))
-        seralizer = RoomSerializer(data, many=True)
+        data = Room.objects.filter(id=params["id"])
+        seralizer = RoomSerializerDetailed(data, many=True)
         context = {
             "data": seralizer.data,
             "success": True,

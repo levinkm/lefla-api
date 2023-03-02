@@ -72,7 +72,6 @@ class Hostelerializer(serializers.ModelSerializer):
         fields = (
             "id",
             "number_of_rooms_available",
-            "rooms_available",
             "hostel_name",
             "hostel_description",
             "hostel_rating",
@@ -164,9 +163,31 @@ class HosteleExtrarializer(serializers.ModelSerializer):
         return request.build_absolute_uri(photo_url)
 
 
-class RoomSerializer(serializers.ModelSerializer):
+class RoomSerializerDetailed(serializers.ModelSerializer):
     hostel_id = Hostelerializer()
 
+    class Meta:
+        model = Room
+        fields = [
+            "id",
+            "room_type",
+            "pricing",
+            "offer",
+            "deposit",
+            "service_fee",
+            "is_booked",
+            "is_occupied",
+            "rooms_images",
+            "hostel_id",
+        ]
+
+    def get_photo_url(self, obj):
+        request = self.context.get("request")
+        photo_url = obj.fingerprint.url
+        return request.build_absolute_uri(photo_url)
+
+
+class RoomSerializer(serializers.ModelSerializer):
     class Meta:
         model = Room
         fields = [
