@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lefla
+spec:
+  selector:
+    matchLabels:
+      app: lefla
+  template:
+    metadata:
+      labels:
+        app: lefla
+    spec:
+      containers:
+        - name: lefla
+          image: sav4ner/lefla:778076d4a3554e3eced63df0f56ddaf7a2115147
+          resources:
+            limits:
+              memory: '128Mi'
+              cpu: '500m'
+          ports:
+            - containerPort: 8000
+  replicas: 4
