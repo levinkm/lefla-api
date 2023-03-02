@@ -81,7 +81,7 @@ ALLOWED_HOSTS = [
     "167.99.42.238",
     "lefla.azurewebsites.net",
     "lefla.vercel.app",
-    "'192.168.59.100'",
+    "192.168.59.100",
 ]
 
 
